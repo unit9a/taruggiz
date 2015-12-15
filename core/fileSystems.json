@@ -1,0 +1,12 @@
+[
+    {
+           "name":"PluginUploads",
+           "parent":"PROJECT",
+           "path":"..\\core\\DataFolder\\Plugins\\"
+    },
+    {
+           "name":"Modules",
+           "parent":"PROJECT",
+           "path":"..\\core\\Modules\\"
+    }
+]
