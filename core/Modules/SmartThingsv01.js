@@ -141,7 +141,6 @@ exports.taruConnect = function(params) {
         };
     }
     else {
-    	debugger;
         var expiredToken = (config.auth.timeRecieved + config.auth.expires_in) < new Date().getTime() / 1000;
         if (expiredToken) {
             /* reconnect re-auth */

@@ -21,7 +21,6 @@ var generalError = {
 var publicIPAddress = '';
 
 exports.RespHeadersToObj = function(headers) {
-    debugger;
     var headersArray = headers.split('\n');
     var headersObj = {};
 

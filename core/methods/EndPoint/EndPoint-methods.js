@@ -30,7 +30,6 @@ model.EndPoint.entityMethods.EnableWorker = function(state) {
 };
 
 model.EndPoint.entityMethods.Connect = function(connector) {
-	debugger; 
     return this.worker.plugin.Module().taruConnect({
     	connector: connector,
     	endPoint: this
