@@ -1,5 +1,5 @@
 ﻿{
-	"deploy.gitRemoteUrl": "cloud",
+	"deploy.gitRemoteUrl": "origin",
 	"deploy.gitBranch": "master",
-	"deploy.gitRemoteBranch": "testing"
+	"deploy.gitRemoteBranch": ""
 }

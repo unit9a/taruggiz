@@ -4,5 +4,5 @@
 //delete storage.ActivePlugins;
 //delete storage.ActivePlugins2;
 //storage;
-application['terst']= { test: "sadsdafasf", testf: function(){}};
-terst
+application['test']= { test: "sadsdafasf", testf: function(){}};
+test

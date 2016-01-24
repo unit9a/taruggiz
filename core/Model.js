@@ -1,8 +1,9 @@
-﻿
-include("./Model/Account/Account-events.js");
-include("./Model/Account/Account-methods.js");
-include("./Model/ExternalConnector/ExternalConnector-events.js")
-include("./Model/ExternalConnector/ExternalConnector-methods.js");;
-include("./Model/Plugin/Plugin-methods.js");
-include("./Model/EndPoint/EndPoint-methods.js");
-include("./Model/SystemWorker/SystemWorker-methods.js");
+﻿include("./methods/Account/Account-events.js");
+include("./methods/Account/Account-methods.js");
+include("./methods/Plugin/Plugin-methods.js");
+include("./methods/EndPoint/EndPoint-methods.js");
+include("./methods/SystemWorker/SystemWorker-methods.js");
+include("./methods/EndPoint/EndPoint-events.js");
+include("./methods/SystemWorker/SystemWorker-events.js");
+include("./methods/Connector/Connector-events.js");
+include("./methods/Connector/Connector-methods.js");

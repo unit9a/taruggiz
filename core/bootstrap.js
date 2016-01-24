@@ -1,5 +1,6 @@
 application['ActivePlugins'] = {};
 application['EndPointDir'] = {
+	/**/
 	GateKeeper: function (protocol, origin, source){
 		
 		if (!EndPointDir[protocol]){
@@ -24,13 +25,17 @@ application['EndPointDir'] = {
 		}
 		return soucesDir[source];
 	}
+	
 };
 application['SecParams'] = {};
 // load defualt plugins
+ds.EndPoint.remove();
+ds.SystemWorker.InitAllWorkers();
 
 LoadDefaultPlugins = function() {
 	
-	function LoadDefault (protocol, fileName){
+	function LoadDefault (fileName){
+		var protocol = require(fileName).taruInfo.connection.protocol;
 		var foundPluginInstance = ds.Plugin.find(
 			'fileName == :1', fileName
 		);
@@ -42,24 +47,23 @@ LoadDefaultPlugins = function() {
 					dateAdded: new Date(),
 					enabled: true,
 					taruInfo: commonJSModule.taruInfo,
-					protocol: protocol,
+					//protocol: protocol,
 					sourceUser: 'serverDefault'
 				});
 				newPlugin.save();
-				newPlugin.GenerateWorkers();
+				foundPluginInstance = newPlugin;
 			}
 			else{
 				throw {error: 'could not load default module:' + fileName};
 			}
 		}
-		else{
-			foundPluginInstance.GenerateWorkers();
-		}
+		
+		foundPluginInstance.GenerateWorkers();
 		
 	}
 	
-	LoadDefault ('http', 'defaultHTTP');
-	LoadDefault ('websocket', 'defaultWebSocket');
+	LoadDefault ('defaultHTTP');
+	LoadDefault ('defaultWebSocket');
 }
 //ds.Plugin.LoadCommonJS('defaultHTTP');
 //ActivePlugins;
@@ -67,5 +71,4 @@ LoadDefaultPlugins = function() {
 
 LoadDefaultPlugins();
 ds.Account.StartAllAccounts();
-debugger
-ActivePlugins
+

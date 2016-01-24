@@ -1,687 +1,771 @@
-
 {
-	"toJSON" : true,
-	"extraProperties" : 
-	{
-		"version" : "2",
-		"classes" : 
-		{
-			"Account" : 
-			{
-				"panelColor" : "#548DD4",
-				"panel" : 
-				{
-					"isOpen" : "true",
-					"pathVisible" : true,
-					"position" : 
-					{
-						"X" : 10,
-						"Y" : 13
+	"toJSON": true,
+	"extraProperties": {
+		"version": "2",
+		"classes": {
+			"Account": {
+				"panelColor": "#548DD4",
+				"scalarVisible": "true",
+				"methVisible": "true",
+				"methodInhVisible": "true",
+				"relVisible": "true",
+				"inheritedVisible": "false",
+				"panel": {
+					"isOpen": "true",
+					"pathVisible": true,
+					"position": {
+						"X": 10,
+						"Y": 13
 					}
 				}
 			},
-			"DeviceInput" : 
-			{
-				"panelColor" : "#BFBFBF",
-				"panel" : 
-				{
-					"isOpen" : "false",
-					"pathVisible" : true,
-					"position" : 
-					{
-						"X" : 1376,
-						"Y" : 28
+			"DeviceInput": {
+				"panelColor": "#BFBFBF",
+				"panel": {
+					"isOpen": "false",
+					"pathVisible": true,
+					"position": {
+						"X": 1376,
+						"Y": 28
 					}
 				}
 			},
-			"Plugin" : 
-			{
-				"panelColor" : "#C3D69B",
-				"panel" : 
-				{
-					"isOpen" : "true",
-					"pathVisible" : true,
-					"position" : 
-					{
-						"X" : 24,
-						"Y" : 383
+			"Plugin": {
+				"panelColor": "#C3D69B",
+				"scalarVisible": "true",
+				"methVisible": "true",
+				"methodInhVisible": "true",
+				"relVisible": "true",
+				"inheritedVisible": "false",
+				"panel": {
+					"isOpen": "true",
+					"pathVisible": true,
+					"position": {
+						"X": 25,
+						"Y": 436
 					}
 				}
 			},
-			"ExternalConnector" : 
-			{
-				"panelColor" : "#C3D69B",
-				"panel" : 
-				{
-					"isOpen" : "true",
-					"pathVisible" : true,
-					"position" : 
-					{
-						"X" : 1047,
-						"Y" : 150
-					}
-				},
-				"attributes" : 
-				{
-					"extrnOrigin" : 
-					{
-						"note" : "host address of source connection"
-					},
-					"extrnSource" : 
-					{
-						"note" : "full uri of source"
+			"SystemWorker": {
+				"panelColor": "#D88CFF",
+				"scalarVisible": "true",
+				"methVisible": "true",
+				"methodInhVisible": "true",
+				"relVisible": "true",
+				"inheritedVisible": "false",
+				"panel": {
+					"isOpen": "true",
+					"pathVisible": true,
+					"position": {
+						"X": 405,
+						"Y": 558
 					}
 				}
 			},
-			"SystemWorker" : 
-			{
-				"panelColor" : "#D88CFF",
-				"panel" : 
-				{
-					"isOpen" : "true",
-					"pathVisible" : false,
-					"position" : 
-					{
-						"X" : 413,
-						"Y" : 671
+			"EndPoint": {
+				"panelColor": "rgb(153, 102, 153)",
+				"scalarVisible": "true",
+				"methVisible": "true",
+				"methodInhVisible": "true",
+				"relVisible": "true",
+				"inheritedVisible": "false",
+				"panel": {
+					"isOpen": "true",
+					"pathVisible": true,
+					"position": {
+						"X": 733,
+						"Y": 408
 					}
 				}
 			},
-			"EndPoint" : 
-			{
-				"panelColor" : "rgb(153, 102, 153)",
-				"panel" : 
-				{
-					"isOpen" : "true",
-					"pathVisible" : true,
-					"position" : 
-					{
-						"X" : 634,
-						"Y" : 529
+			"Test": {
+				"panelColor": "#548DD4",
+				"flatVisible": "true",
+				"scalarVisible": "true",
+				"inheritedVisible": "false",
+				"methVisible": "true",
+				"panel": {
+					"isOpen": "true",
+					"pathVisible": true,
+					"position": {
+						"X": 365,
+						"Y": 20
+					}
+				}
+			},
+			"Connector": {
+				"panelColor": "#7F7F7F",
+				"flatVisible": "true",
+				"scalarVisible": "true",
+				"inheritedVisible": "false",
+				"methVisible": "true",
+				"panel": {
+					"isOpen": "true",
+					"pathVisible": true,
+					"position": {
+						"X": 1116,
+						"Y": 217
 					}
 				}
 			}
 		},
-		"model" : 
-		{
-			"scriptMode" : "manual",
-			"workspaceLeft" : 400,
-			"workspaceTop" : 0,
-			"relationCurve" : 
-			{
-				"run" : true,
-				"mode" : 1
+		"model": {
+			"scriptMode": "manual",
+			"workspaceLeft": 600,
+			"workspaceTop": 133,
+			"scalShowMode": "true",
+			"methodShowMode": "true",
+			"methodInhShowMode": "true",
+			"relShowMode": "true",
+			"inhShowMode": "false",
+			"relationCurve": {
+				"run": true,
+				"mode": 1
 			},
-			"lastScriptLocation" : 
-			{
-				"Account" : 
-				{
-					"method" : "Account/Account-methods.js"
+			"lastScriptLocation": {
+				"Account": {
+					"method": "Account/Account-methods.js"
 				},
-				"Plugin" : 
-				{
-					"method" : "Plugin/Plugin-methods.js"
+				"Plugin": {
+					"method": "Plugin/Plugin-methods.js"
 				},
-				"ExternalConnector" : 
-				{
-					"method" : "ExternalConnector/ExternalConnector-methods.js",
-					"computed" : "ExternalConnector/ExternalConnector-events.js"
+				"SystemWorker": {
+					"method": "SystemWorker/SystemWorker-methods.js",
+					"computed": "SystemWorker/SystemWorker-events.js"
 				},
-				"SystemWorker" : 
-				{
-					"method" : "SystemWorker/SystemWorker-methods.js"
+				"EndPoint": {
+					"method": "EndPoint/EndPoint-methods.js",
+					"computed": "EndPoint/EndPoint-events.js"
 				},
-				"EndPoint" : 
-				{
-					"method" : "EndPoint/EndPoint-methods.js"
+				"Connector": {
+					"computed": "Connector/Connector-events.js",
+					"method": "Connector/Connector-methods.js"
 				}
 			}
 		}
 	},
-	"dataClasses" : 
-	[
+	"dataClasses": [
 		{
-			"name" : "Account",
-			"className" : "Account",
-			"collectionName" : "AccountCollection",
-			"scope" : "public",
-			"publishAsJSGlobal" : false,
-			"attributes" : 
-			[
+			"name": "Account",
+			"className": "Account",
+			"collectionName": "AccountCollection",
+			"scope": "public",
+			"publishAsJSGlobal": false,
+			"attributes": [
 				{
-					"name" : "ID",
-					"kind" : "storage",
-					"scope" : "public",
-					"indexed" : true,
-					"unique" : true,
-					"autosequence" : true,
-					"autogenerate" : true,
-					"type" : "uuid",
-					"indexKind" : "btree"
+					"name": "ID",
+					"kind": "storage",
+					"scope": "public",
+					"unique": true,
+					"autosequence": true,
+					"autogenerate": true,
+					"type": "uuid",
+					"indexKind": "btree",
+					"primKey": true
 				},
 				{
-					"name" : "user",
-					"kind" : "storage",
-					"scope" : "public",
-					"not_null" : true,
-					"type" : "string",
-					"identifying" : true
+					"name": "user",
+					"kind": "storage",
+					"scope": "public",
+					"not_null": true,
+					"type": "string",
+					"identifying": true
 				},
 				{
-					"name" : "eventLogRaw",
-					"kind" : "storage",
-					"scope" : "public",
-					"type" : "object"
+					"name": "eventLogRaw",
+					"kind": "storage",
+					"scope": "public",
+					"type": "object"
 				},
 				{
-					"name" : "connectors",
-					"kind" : "relatedEntities",
-					"scope" : "public",
-					"type" : "ExternalConnectorCollection",
-					"reversePath" : true,
-					"path" : "account"
+					"name": "endPoints",
+					"kind": "relatedEntities",
+					"scope": "public",
+					"type": "EndPointCollection",
+					"reversePath": true,
+					"path": "account"
 				},
 				{
-					"name" : "endPoints",
-					"kind" : "relatedEntities",
-					"scope" : "public",
-					"type" : "EndPointCollection",
-					"path" : "connectors.endPoint"
+					"name": "connectors",
+					"kind": "relatedEntities",
+					"matchColumn": "connectorCollection",
+					"scope": "public",
+					"type": "ConnectorCollection",
+					"reversePath": true,
+					"path": "account"
 				}
 			],
-			"methods" : 
-			[
+			"methods": [
 				{
-					"name" : "AddPlugin",
-					"applyTo" : "entity",
-					"scope" : "public",
-					"from" : "$mainModel.Account.entityMethods.AddPlugin",
-					"userDefined" : true
+					"name": "AddPlugin",
+					"applyTo": "entity",
+					"scope": "public",
+					"from": "$mainModel.Account.entityMethods.AddPlugin",
+					"userDefined": true
 				},
 				{
-					"name" : "GetConnectorDetails",
-					"applyTo" : "entity",
-					"scope" : "public",
-					"from" : "$mainModel.Account.entityMethods.GetConnectorDetails",
-					"userDefined" : true
+					"name": "GetConnectorDetails",
+					"applyTo": "entity",
+					"scope": "public",
+					"from": "$mainModel.Account.entityMethods.GetConnectorDetails",
+					"userDefined": true
 				},
 				{
-					"name" : "GetEndPoint",
-					"applyTo" : "entity",
-					"scope" : "publicOnServer",
-					"from" : "$mainModel.Account.entityMethods.GetEndPoint",
-					"userDefined" : true
+					"name": "ListConnectors",
+					"applyTo": "entity",
+					"scope": "public",
+					"from": "$mainModel.Account.entityMethods.ListConnectors",
+					"userDefined": true
 				},
 				{
-					"name" : "StartAllAccounts",
-					"applyTo" : "dataClass",
-					"scope" : "publicOnServer",
-					"from" : "$mainModel.Account.methods.StartAllAccounts",
-					"userDefined" : true
+					"name": "ResetConnector",
+					"applyTo": "entity",
+					"scope": "public",
+					"from": "$mainModel.Account.entityMethods.ResetConnector",
+					"userDefined": true
 				},
 				{
-					"name" : "taruStart",
-					"applyTo" : "entity",
-					"scope" : "publicOnServer",
-					"from" : "$mainModel.Account.entityMethods.taruStart",
-					"userDefined" : true
-				}
-			],
-			"key" : 
-			[
+					"name": "SetupConnector",
+					"applyTo": "entity",
+					"scope": "publicOnServer",
+					"from": "$mainModel.Account.entityMethods.SetupConnector",
+					"userDefined": true
+				},
 				{
-					"name" : "ID"
+					"name": "StartAllAccounts",
+					"applyTo": "dataClass",
+					"scope": "publicOnServer",
+					"from": "$mainModel.Account.methods.StartAllAccounts",
+					"userDefined": true
+				},
+				{
+					"name": "taruStart",
+					"applyTo": "entity",
+					"scope": "publicOnServer",
+					"from": "$mainModel.Account.entityMethods.taruStart",
+					"userDefined": true
 				}
 			]
 		},
 		{
-			"name" : "EndPoint",
-			"className" : "EndPoint",
-			"collectionName" : "EndPointCollection",
-			"matchTable" : "End2",
-			"scope" : "public",
-			"attributes" : 
-			[
+			"name": "Connector",
+			"className": "Connector",
+			"collectionName": "ConnectorCollection",
+			"scope": "public",
+			"attributes": [
 				{
-					"name" : "ID",
-					"kind" : "storage",
-					"scope" : "public",
-					"indexed" : true,
-					"unique" : true,
-					"autosequence" : true,
-					"autogenerate" : true,
-					"type" : "uuid",
-					"indexKind" : "btree"
+					"name": "ID",
+					"kind": "storage",
+					"scope": "public",
+					"unique": true,
+					"autosequence": true,
+					"autogenerate": true,
+					"type": "uuid",
+					"primKey": true
 				},
 				{
-					"name" : "enabled",
-					"kind" : "storage",
-					"scope" : "public",
-					"type" : "bool"
+					"name": "account",
+					"kind": "relatedEntity",
+					"scope": "public",
+					"type": "Account",
+					"path": "Account"
 				},
 				{
-					"name" : "protocol",
-					"kind" : "storage",
-					"scope" : "public",
-					"type" : "string"
+					"name": "plugin",
+					"kind": "relatedEntity",
+					"scope": "public",
+					"type": "Plugin",
+					"path": "Plugin"
 				},
 				{
-					"name" : "status",
-					"kind" : "storage",
-					"scope" : "public",
-					"type" : "string"
+					"name": "endPoint",
+					"kind": "relatedEntity",
+					"scope": "public",
+					"type": "EndPoint",
+					"path": "EndPoint"
 				},
 				{
-					"name" : "worker",
-					"kind" : "relatedEntity",
-					"scope" : "public",
-					"type" : "SystemWorker",
-					"path" : "SystemWorker"
-				},
-				{
-					"name" : "connectors",
-					"kind" : "relatedEntities",
-					"scope" : "public",
-					"type" : "ExternalConnectorCollection",
-					"reversePath" : true,
-					"path" : "endPoint"
-				}
-			],
-			"methods" : 
-			[
-				{
-					"name" : "Connect",
-					"applyTo" : "entity",
-					"scope" : "publicOnServer",
-					"from" : "$mainModel.EndPoint.entityMethods.Connect",
-					"userDefined" : true
-				},
-				{
-					"name" : "EnableService",
-					"applyTo" : "entity",
-					"scope" : "publicOnServer",
-					"from" : "$mainModel.EndPoint.entityMethods.EnableService",
-					"userDefined" : true
-				},
-				{
-					"name" : "Handle",
-					"applyTo" : "entity",
-					"scope" : "publicOnServer",
-					"from" : "$mainModel.EndPoint.entityMethods.Handle",
-					"userDefined" : true
-				},
-				{
-					"name" : "RegisterConnection",
-					"applyTo" : "entity",
-					"scope" : "publicOnServer",
-					"from" : "$mainModel.EndPoint.entityMethods.RegisterConnection",
-					"userDefined" : true
-				},
-				{
-					"name" : "UpdateDir",
-					"applyTo" : "dataClass",
-					"scope" : "publicOnServer",
-					"from" : "$mainModel.EndPoint.methods.UpdateDir",
-					"userDefined" : true
-				}
-			],
-			"key" : 
-			[
-				{
-					"name" : "ID"
-				}
-			]
-		},
-		{
-			"name" : "ExternalConnector",
-			"className" : "ExternalConnector",
-			"collectionName" : "ExternalConnectorCollection",
-			"scope" : "public",
-			"attributes" : 
-			[
-				{
-					"name" : "ID",
-					"kind" : "storage",
-					"scope" : "public",
-					"indexed" : true,
-					"unique" : true,
-					"autosequence" : true,
-					"autogenerate" : true,
-					"type" : "uuid",
-					"indexKind" : "btree",
-					"identifying" : true
-				},
-				{
-					"name" : "account",
-					"kind" : "relatedEntity",
-					"scope" : "public",
-					"type" : "Account",
-					"path" : "Account"
-				},
-				{
-					"name" : "plugin",
-					"kind" : "relatedEntity",
-					"scope" : "public",
-					"type" : "Plugin",
-					"path" : "Plugin",
-					"identifying" : true
-				},
-				{
-					"name" : "endPoint",
-					"kind" : "relatedEntity",
-					"scope" : "public",
-					"type" : "EndPoint",
-					"path" : "EndPoint"
-				},
-				{
-					"name" : "name",
-					"kind" : "calculated",
-					"scope" : "public",
-					"type" : "string",
-					"scriptKind" : "javascript",
-					"onGet" : 
-					[
+					"name": "name",
+					"kind": "calculated",
+					"scope": "public",
+					"type": "string",
+					"scriptKind": "javascript",
+					"onGet": [
 						{
-							"from" : "$mainModel.ExternalConnector.name.onGet",
-							"userDefined" : true
+							"from": "$mainModel.Connector.name.onGet",
+							"userDefined": true
 						}
 					]
 				},
 				{
-					"name" : "enable",
-					"kind" : "storage",
-					"scope" : "public",
-					"type" : "bool"
+					"name": "enabled",
+					"kind": "storage",
+					"scope": "public",
+					"type": "bool"
 				},
 				{
-					"name" : "config",
-					"kind" : "storage",
-					"scope" : "public",
-					"type" : "object"
+					"name": "config",
+					"kind": "storage",
+					"matchColumn": "conf",
+					"scope": "public",
+					"type": "object"
 				},
 				{
-					"name" : "state",
-					"kind" : "storage",
-					"scope" : "public",
-					"type" : "object"
+					"name": "state",
+					"kind": "storage",
+					"scope": "public",
+					"type": "object"
 				},
 				{
-					"name" : "extrnOrigin",
-					"kind" : "storage",
-					"scope" : "public",
-					"type" : "string"
+					"name": "extrnOrigin",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
 				},
 				{
-					"name" : "extrnSource",
-					"kind" : "storage",
-					"scope" : "public",
-					"type" : "string"
+					"name": "extrnSource",
+					"kind": "storage",
+					"matchColumn": "extrnOr",
+					"scope": "public",
+					"type": "string"
 				}
 			],
-			"methods" : 
-			[
+			"methods": [
 				{
-					"name" : "GetEndPoint",
-					"applyTo" : "entity",
-					"scope" : "publicOnServer",
-					"from" : "$mainModel.ExternalConnector.entityMethods.GetEndPoint",
-					"userDefined" : true
+					"name": "createAddress",
+					"applyTo": "entity",
+					"scope": "publicOnServer",
+					"from": "$mainModel.Connector.entityMethods.createAddress",
+					"userDefined": true
 				},
 				{
-					"name" : "Start",
-					"applyTo" : "entity",
-					"scope" : "publicOnServer",
-					"from" : "$mainModel.ExternalConnector.entityMethods.Start",
-					"userDefined" : true
+					"name": "removeAddress",
+					"applyTo": "entity",
+					"scope": "publicOnServer",
+					"from": "$mainModel.Connector.entityMethods.removeAddress",
+					"userDefined": true
 				},
 				{
-					"name" : "StartAll",
-					"applyTo" : "entityCollection",
-					"scope" : "publicOnServer",
-					"from" : "$mainModel.ExternalConnector.collectionMethods.StartAll",
-					"userDefined" : true
-				}
-			],
-			"key" : 
-			[
+					"name": "Setup",
+					"applyTo": "entity",
+					"scope": "publicOnServer",
+					"from": "$mainModel.Connector.entityMethods.Setup",
+					"userDefined": true
+				},
 				{
-					"name" : "ID"
+					"name": "Start",
+					"applyTo": "entity",
+					"scope": "publicOnServer",
+					"from": "$mainModel.Connector.entityMethods.Start",
+					"userDefined": true
+				},
+				{
+					"name": "StartAll",
+					"applyTo": "entityCollection",
+					"scope": "publicOnServer",
+					"from": "$mainModel.Connector.collectionMethods.StartAll",
+					"userDefined": true
 				}
 			]
 		},
 		{
-			"name" : "Plugin",
-			"className" : "Plugin",
-			"collectionName" : "PluginCollection",
-			"scope" : "public",
-			"attributes" : 
-			[
+			"name": "EndPoint",
+			"className": "EndPoint",
+			"collectionName": "EndPointCollection",
+			"matchTable": "End2",
+			"scope": "public",
+			"attributes": [
 				{
-					"name" : "ID",
-					"kind" : "storage",
-					"scope" : "public",
-					"indexed" : true,
-					"unique" : true,
-					"autosequence" : true,
-					"autogenerate" : true,
-					"type" : "uuid",
-					"indexKind" : "btree",
-					"identifying" : true
+					"name": "ID",
+					"kind": "storage",
+					"scope": "public",
+					"unique": true,
+					"autosequence": true,
+					"autogenerate": true,
+					"type": "uuid",
+					"indexKind": "btree",
+					"primKey": true,
+					"identifying": true,
+					"scriptKind": "javascript"
 				},
 				{
-					"name" : "fileName",
-					"kind" : "storage",
-					"matchColumn" : "file",
-					"scope" : "public",
-					"indexed" : true,
-					"unique" : true,
-					"not_null" : true,
-					"type" : "string",
-					"indexKind" : "btree",
-					"identifying" : true
+					"name": "enabled",
+					"kind": "storage",
+					"scope": "public",
+					"type": "bool"
 				},
 				{
-					"name" : "enabled",
-					"kind" : "storage",
-					"scope" : "public",
-					"type" : "bool"
+					"name": "account",
+					"kind": "relatedEntity",
+					"scope": "public",
+					"type": "Account",
+					"path": "Account"
 				},
 				{
-					"name" : "taruInfo",
-					"kind" : "storage",
-					"matchColumn" : "tarruInfo",
-					"scope" : "public",
-					"type" : "object"
+					"name": "worker",
+					"kind": "relatedEntity",
+					"scope": "public",
+					"type": "SystemWorker",
+					"path": "SystemWorker"
 				},
 				{
-					"name" : "DateCreated",
-					"kind" : "storage",
-					"scope" : "public",
-					"type" : "date",
-					"simpleDate" : false
+					"name": "protocol",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
 				},
 				{
-					"name" : "idleTime",
-					"kind" : "storage",
-					"scope" : "public",
-					"type" : "number",
-					"defaultValue" : "300000"
+					"name": "status",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
 				},
 				{
-					"name" : "sourceUser",
-					"kind" : "storage",
-					"scope" : "public",
-					"type" : "string"
+					"name": "fullAddress",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
 				},
 				{
-					"name" : "status",
-					"kind" : "storage",
-					"scope" : "public",
-					"type" : "string"
-				},
-				{
-					"name" : "connectors",
-					"kind" : "relatedEntities",
-					"scope" : "public",
-					"type" : "ExternalConnectorCollection",
-					"reversePath" : true,
-					"path" : "plugin"
-				},
-				{
-					"name" : "workers",
-					"kind" : "relatedEntities",
-					"scope" : "public",
-					"type" : "SystemWorkerCollection",
-					"reversePath" : true,
-					"path" : "plugin"
+					"name": "connectors",
+					"kind": "relatedEntities",
+					"scope": "public",
+					"type": "ConnectorCollection",
+					"reversePath": true,
+					"path": "endPoint"
 				}
 			],
-			"methods" : 
-			[
+			"methods": [
 				{
-					"name" : "CheckTaruInfo",
-					"applyTo" : "dataClass",
-					"scope" : "publicOnServer",
-					"from" : "$mainModel.Plugin.methods.CheckTaruInfo",
-					"userDefined" : true
+					"name": "Connect",
+					"applyTo": "entity",
+					"scope": "publicOnServer",
+					"from": "$mainModel.EndPoint.entityMethods.Connect",
+					"userDefined": true
 				},
 				{
-					"name" : "GenerateWorkers",
-					"applyTo" : "entity",
-					"scope" : "publicOnServer",
-					"from" : "$mainModel.Plugin.entityMethods.GenerateWorkers",
-					"userDefined" : true
+					"name": "EnableWorker",
+					"applyTo": "entity",
+					"scope": "publicOnServer",
+					"from": "$mainModel.EndPoint.entityMethods.EnableWorker",
+					"userDefined": true
 				},
 				{
-					"name" : "Install",
-					"applyTo" : "dataClass",
-					"scope" : "publicOnServer",
-					"from" : "$mainModel.Plugin.methods.Install",
-					"userDefined" : true
+					"name": "FindWorker",
+					"applyTo": "entity",
+					"scope": "publicOnServer",
+					"from": "$mainModel.EndPoint.entityMethods.FindWorker",
+					"userDefined": true
 				},
 				{
-					"name" : "ListAdaptersProtocols",
-					"applyTo" : "dataClass",
-					"scope" : "publicOnServer",
-					"from" : "$mainModel.Plugin.methods.ListAdaptersProtocols",
-					"userDefined" : true
+					"name": "Handle",
+					"applyTo": "entity",
+					"scope": "publicOnServer",
+					"from": "$mainModel.EndPoint.entityMethods.Handle",
+					"userDefined": true
 				},
 				{
-					"name" : "ListConnectors",
-					"applyTo" : "dataClass",
-					"scope" : "public",
-					"from" : "$mainModel.Plugin.methods.ListConnectors",
-					"userDefined" : true
+					"name": "Plugin",
+					"applyTo": "entity",
+					"scope": "publicOnServer",
+					"from": "$mainModel.EndPoint.entityMethods.Plugin",
+					"userDefined": true
 				},
 				{
-					"name" : "LoadCommonJS",
-					"applyTo" : "dataClass",
-					"scope" : "publicOnServer",
-					"from" : "$mainModel.Plugin.methods.LoadCommonJS",
-					"userDefined" : true
+					"name": "RegisterConnector",
+					"applyTo": "entity",
+					"scope": "publicOnServer",
+					"from": "$mainModel.EndPoint.entityMethods.RegisterConnector",
+					"userDefined": true
 				},
 				{
-					"name" : "Module",
-					"applyTo" : "entity",
-					"scope" : "publicOnServer",
-					"from" : "$mainModel.Plugin.entityMethods.Module",
-					"userDefined" : true
-				},
-				{
-					"name" : "Uninstall",
-					"applyTo" : "entity",
-					"scope" : "publicOnServer",
-					"from" : "$mainModel.Plugin.entityMethods.Uninstall",
-					"userDefined" : true
-				},
-				{
-					"name" : "UnloadCommonJS",
-					"applyTo" : "entity",
-					"scope" : "publicOnServer",
-					"from" : "$mainModel.Plugin.entityMethods.UnloadCommonJS",
-					"userDefined" : true
-				}
-			],
-			"key" : 
-			[
-				{
-					"name" : "ID"
+					"name": "UpdateDir",
+					"applyTo": "dataClass",
+					"scope": "publicOnServer",
+					"from": "$mainModel.EndPoint.methods.UpdateDir",
+					"userDefined": true
 				}
 			]
 		},
 		{
-			"name" : "SystemWorker",
-			"className" : "SystemWorker",
-			"collectionName" : "SystemWorkerCollection",
-			"scope" : "public",
-			"attributes" : 
-			[
+			"name": "Plugin",
+			"className": "Plugin",
+			"collectionName": "PluginCollection",
+			"scope": "public",
+			"attributes": [
 				{
-					"name" : "ID",
-					"kind" : "storage",
-					"scope" : "public",
-					"indexed" : true,
-					"unique" : true,
-					"autosequence" : true,
-					"autogenerate" : true,
-					"type" : "uuid",
-					"indexKind" : "btree",
-					"identifying" : true
+					"name": "ID",
+					"kind": "storage",
+					"scope": "public",
+					"unique": true,
+					"autosequence": true,
+					"autogenerate": true,
+					"type": "uuid",
+					"indexKind": "btree",
+					"identifying": true,
+					"primKey": true
 				},
 				{
-					"name" : "plugin",
-					"kind" : "relatedEntity",
-					"scope" : "public",
-					"type" : "Plugin",
-					"path" : "Plugin",
-					"identifying" : true
+					"name": "fileName",
+					"kind": "storage",
+					"matchColumn": "file",
+					"scope": "public",
+					"unique": true,
+					"not_null": true,
+					"type": "string",
+					"indexKind": "btree",
+					"identifying": true
 				},
 				{
-					"name" : "protocol",
-					"kind" : "storage",
-					"scope" : "public",
-					"not_null" : true,
-					"type" : "string",
-					"identifying" : true
+					"name": "enabled",
+					"kind": "storage",
+					"scope": "public",
+					"type": "bool"
 				},
 				{
-					"name" : "enabled",
-					"kind" : "storage",
-					"scope" : "public",
-					"type" : "bool"
+					"name": "taruInfo",
+					"kind": "storage",
+					"matchColumn": "tarruInfo",
+					"scope": "public",
+					"type": "object"
 				},
 				{
-					"name" : "endPoints",
-					"kind" : "relatedEntities",
-					"scope" : "public",
-					"type" : "EndPointCollection",
-					"reversePath" : true,
-					"path" : "worker"
+					"name": "DateCreated",
+					"kind": "storage",
+					"scope": "public",
+					"type": "date",
+					"simpleDate": false
+				},
+				{
+					"name": "idleTime",
+					"kind": "storage",
+					"scope": "public",
+					"type": "number",
+					"defaultValue": "300000"
+				},
+				{
+					"name": "sourceUser",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "status",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "workers",
+					"kind": "relatedEntities",
+					"scope": "public",
+					"type": "SystemWorkerCollection",
+					"reversePath": true,
+					"path": "plugin"
+				},
+				{
+					"name": "connectors",
+					"kind": "relatedEntities",
+					"scope": "public",
+					"type": "ConnectorCollection",
+					"reversePath": true,
+					"path": "plugin"
 				}
 			],
-			"methods" : 
-			[
+			"methods": [
 				{
-					"name" : "Start",
-					"applyTo" : "entity",
-					"scope" : "publicOnServer",
-					"from" : "$mainModel.SystemWorker.entityMethods.Start",
-					"userDefined" : true
+					"name": "CheckTaruInfo",
+					"applyTo": "dataClass",
+					"scope": "publicOnServer",
+					"from": "$mainModel.Plugin.methods.CheckTaruInfo",
+					"userDefined": true
 				},
 				{
-					"name" : "Stop",
-					"applyTo" : "entity",
-					"scope" : "publicOnServer",
-					"from" : "$mainModel.SystemWorker.entityMethods.Stop",
-					"userDefined" : true
+					"name": "FindWorker",
+					"applyTo": "dataClass",
+					"scope": "publicOnServer",
+					"from": "$mainModel.Plugin.methods.FindWorker",
+					"userDefined": true
+				},
+				{
+					"name": "GenerateWorkers",
+					"applyTo": "entity",
+					"scope": "publicOnServer",
+					"from": "$mainModel.Plugin.entityMethods.GenerateWorkers",
+					"userDefined": true
+				},
+				{
+					"name": "Install",
+					"applyTo": "dataClass",
+					"scope": "publicOnServer",
+					"from": "$mainModel.Plugin.methods.Install",
+					"userDefined": true
+				},
+				{
+					"name": "ListPlugins",
+					"applyTo": "dataClass",
+					"scope": "public",
+					"from": "$mainModel.Plugin.methods.ListPlugins",
+					"userDefined": true
+				},
+				{
+					"name": "LoadCommonJS",
+					"applyTo": "dataClass",
+					"scope": "publicOnServer",
+					"from": "$mainModel.Plugin.methods.LoadCommonJS",
+					"userDefined": true
+				},
+				{
+					"name": "Module",
+					"applyTo": "entity",
+					"scope": "publicOnServer",
+					"from": "$mainModel.Plugin.entityMethods.Module",
+					"userDefined": true
+				},
+				{
+					"name": "Uninstall",
+					"applyTo": "entity",
+					"scope": "publicOnServer",
+					"from": "$mainModel.Plugin.entityMethods.Uninstall",
+					"userDefined": true
+				},
+				{
+					"name": "UnloadCommonJS",
+					"applyTo": "entity",
+					"scope": "publicOnServer",
+					"from": "$mainModel.Plugin.entityMethods.UnloadCommonJS",
+					"userDefined": true
+				}
+			]
+		},
+		{
+			"name": "SystemWorker",
+			"className": "SystemWorker",
+			"collectionName": "SystemWorkerCollection",
+			"scope": "public",
+			"attributes": [
+				{
+					"name": "ID",
+					"kind": "storage",
+					"scope": "public",
+					"unique": true,
+					"autosequence": true,
+					"autogenerate": true,
+					"type": "uuid",
+					"indexKind": "btree",
+					"identifying": true,
+					"primKey": true
+				},
+				{
+					"name": "plugin",
+					"kind": "relatedEntity",
+					"scope": "public",
+					"type": "Plugin",
+					"path": "Plugin",
+					"identifying": true
+				},
+				{
+					"name": "enabled",
+					"kind": "storage",
+					"scope": "public",
+					"type": "number"
+				},
+				{
+					"name": "endPoints",
+					"kind": "relatedEntities",
+					"scope": "public",
+					"type": "EndPointCollection",
+					"reversePath": true,
+					"path": "worker"
+				},
+				{
+					"name": "protocol",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "status",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "config",
+					"kind": "storage",
+					"scope": "public",
+					"type": "object"
 				}
 			],
-			"key" : 
-			[
+			"methods": [
 				{
-					"name" : "ID"
+					"name": "Disable",
+					"applyTo": "entity",
+					"scope": "publicOnServer",
+					"from": "$mainModel.SystemWorker.entityMethods.Disable",
+					"userDefined": true
+				},
+				{
+					"name": "Enable",
+					"applyTo": "entity",
+					"scope": "publicOnServer",
+					"from": "$mainModel.SystemWorker.entityMethods.Enable",
+					"userDefined": true
+				},
+				{
+					"name": "InitAllWorkers",
+					"applyTo": "dataClass",
+					"scope": "publicOnServer",
+					"from": "$mainModel.SystemWorker.methods.InitAllWorkers",
+					"userDefined": true
+				},
+				{
+					"name": "Reset",
+					"applyTo": "entity",
+					"scope": "publicOnServer",
+					"from": "$mainModel.SystemWorker.entityMethods.Reset",
+					"userDefined": true
+				},
+				{
+					"name": "Start",
+					"applyTo": "entity",
+					"scope": "publicOnServer",
+					"from": "$mainModel.SystemWorker.entityMethods.Start",
+					"userDefined": true
+				},
+				{
+					"name": "Stop",
+					"applyTo": "entity",
+					"scope": "publicOnServer",
+					"from": "$mainModel.SystemWorker.entityMethods.Stop",
+					"userDefined": true
+				}
+			]
+		},
+		{
+			"name": "Test",
+			"className": "Test",
+			"collectionName": "TestCollection",
+			"matchTable": "Tes",
+			"scope": "public",
+			"attributes": [
+				{
+					"name": "ID",
+					"kind": "storage",
+					"scope": "public",
+					"unique": true,
+					"autosequence": true,
+					"type": "long",
+					"primKey": true
+				},
+				{
+					"name": "string",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
 				}
 			]
 		}
-	]
+	],
+	"type": []
 }

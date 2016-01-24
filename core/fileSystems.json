@@ -2,11 +2,16 @@
     {
            "name":"PluginUploads",
            "parent":"PROJECT",
-           "path":"..\\core\\DataFolder\\Plugins\\"
+           "path":"../core/DataFolder/Plugins/"
     },
     {
            "name":"Modules",
            "parent":"PROJECT",
            "path":"..\\core\\Modules\\"
+    },
+    {
+           "name":"taruPlugins",
+           "parent":"PROJECT",
+           "path":"../core/taruPlugins/"
     }
 ]
