@@ -7,7 +7,7 @@ A local server for smart/intelligent spaces like homes or installations
   2. present a simple api to web and app developers
 2. minimize amount of event data that is sent to global web
   * promote privacy
-3. explore the transforming smart home technology into 'assistive' technology
+3. explore transforming smart home technology into 'assistive' technology
 
 ##Installing##
 ###Development
