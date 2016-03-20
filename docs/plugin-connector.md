@@ -1,5 +1,5 @@
 
 #taruConnector (object)
 * taruInfo (object) - installation info
-* intConnector
-* reconnect
+* initConnection - first time connection to third party plation 
+* reconnect [optional] - connects using existing creditials in config object
