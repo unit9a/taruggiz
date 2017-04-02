@@ -1,1 +1,342 @@
-{    "toJSON": true,    "dbInfo": [{        "name": "Model",        "uuid": ""    }],    "extraProperties": {        "version": "2",        "classes": {        },        "model": {            "scriptMode": "manual"        }    },    "dataClasses": []}
+{
+	"toJSON": true,
+	"extraProperties": {
+		"version": "2",
+		"classes": {
+			"Node": {
+				"panelColor": "#BFBFBF",
+				"panel": {
+					"isOpen": "true",
+					"position": {
+						"X": 25,
+						"Y": 20
+					}
+				}
+			},
+			"GeneralNode": {
+				"panelColor": "#D88CFF",
+				"panel": {
+					"pathVisible": true,
+					"isOpen": "true",
+					"position": {
+						"X": 387,
+						"Y": 239
+					}
+				}
+			},
+			"Datum": {
+				"panelColor": "#BFBFBF",
+				"panel": {
+					"isOpen": "true",
+					"pathVisible": true,
+					"position": {
+						"X": 770,
+						"Y": 405
+					}
+				}
+			},
+			"SubProcess": {
+				"panelColor": "#8DB3E2",
+				"panel": {
+					"pathVisible": true,
+					"isOpen": "true",
+					"position": {
+						"X": 10,
+						"Y": 232
+					}
+				}
+			},
+			"Log": {
+				"panelColor": "#D8D8D8",
+				"panel": {
+					"isOpen": "true",
+					"pathVisible": true,
+					"position": {
+						"X": 25,
+						"Y": 5
+					}
+				}
+			}
+		},
+		"model": {
+			"scriptMode": "manual",
+			"workspaceLeft": 0,
+			"workspaceTop": 0,
+			"relationCurve": {
+				"run": true,
+				"mode": 1
+			},
+			"lastScriptLocation": {
+				"GeneralNode": {
+					"method": "GeneralNode/GeneralNode-methods.js"
+				},
+				"SubProcess": {
+					"method": "DataClass1/DataClass1-methods.js"
+				},
+				"Log": {
+					"method": "Log/Log-methods.js"
+				}
+			}
+		}
+	},
+	"dataClasses": [
+		{
+			"name": "Datum",
+			"className": "Datum",
+			"collectionName": "DatumCollection",
+			"scope": "public",
+			"attributes": [
+				{
+					"name": "ID",
+					"kind": "storage",
+					"scope": "public",
+					"unique": true,
+					"autosequence": true,
+					"autogenerate": true,
+					"type": "uuid",
+					"identifying": true,
+					"primKey": true
+				},
+				{
+					"name": "type",
+					"kind": "storage",
+					"scope": "public",
+					"type": "byte"
+				},
+				{
+					"name": "owner",
+					"kind": "relatedEntity",
+					"matchColumn": "generalNode",
+					"scope": "public",
+					"type": "GeneralNode",
+					"path": "GeneralNode"
+				},
+				{
+					"name": "blob",
+					"kind": "storage",
+					"scope": "public",
+					"type": "blob"
+				},
+				{
+					"name": "rawStr",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "json",
+					"kind": "storage",
+					"scope": "public",
+					"type": "object"
+				},
+				{
+					"name": "byte",
+					"kind": "storage",
+					"scope": "public",
+					"type": "byte"
+				},
+				{
+					"name": "bool",
+					"kind": "storage",
+					"scope": "public",
+					"type": "bool"
+				},
+				{
+					"name": "last",
+					"kind": "storage",
+					"scope": "public",
+					"type": "date",
+					"simpleDate": false
+				}
+			]
+		},
+		{
+			"name": "GeneralNode",
+			"className": "GeneralNode",
+			"collectionName": "GeneralNodeCollection",
+			"scope": "public",
+			"attributes": [
+				{
+					"name": "ID",
+					"kind": "storage",
+					"scope": "public",
+					"unique": true,
+					"autosequence": true,
+					"autogenerate": true,
+					"type": "uuid",
+					"identifying": true,
+					"primKey": true
+				},
+				{
+					"name": "type",
+					"kind": "storage",
+					"scope": "public",
+					"type": "byte"
+				},
+				{
+					"name": "state",
+					"kind": "storage",
+					"scope": "public",
+					"type": "byte"
+				},
+				{
+					"name": "purpose",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "parent",
+					"kind": "relatedEntity",
+					"scope": "public",
+					"type": "GeneralNode",
+					"path": "GeneralNode"
+				},
+				{
+					"name": "children",
+					"kind": "relatedEntities",
+					"matchColumn": "decendant,generalNodeCollection",
+					"scope": "public",
+					"type": "GeneralNodeCollection",
+					"reversePath": true,
+					"path": "parent"
+				},
+				{
+					"name": "data",
+					"kind": "relatedEntities",
+					"scope": "public",
+					"type": "DatumCollection",
+					"reversePath": true,
+					"path": "owner"
+				},
+				{
+					"name": "subProcess",
+					"kind": "relatedEntity",
+					"scope": "public",
+					"type": "SubProcess",
+					"path": "SubProcess"
+				}
+			],
+			"methods": [
+				{
+					"name": "GetState",
+					"applyTo": "entity",
+					"scope": "publicOnServer",
+					"from": "$mainModel.GeneralNode.entityMethods.GetState",
+					"userDefined": true
+				},
+				{
+					"name": "GetType",
+					"applyTo": "entity",
+					"scope": "publicOnServer",
+					"from": "$mainModel.GeneralNode.entityMethods.GetType",
+					"userDefined": true
+				}
+			]
+		},
+		{
+			"name": "Log",
+			"className": "Log",
+			"collectionName": "LogCollection",
+			"matchTable": "Logger",
+			"scope": "public",
+			"attributes": [
+				{
+					"name": "ID",
+					"kind": "storage",
+					"scope": "public",
+					"unique": true,
+					"autosequence": true,
+					"type": "long",
+					"identifying": true,
+					"primKey": true
+				},
+				{
+					"name": "created",
+					"kind": "storage",
+					"scope": "public",
+					"type": "date",
+					"simpleDate": false
+				},
+				{
+					"name": "ownership",
+					"kind": "storage",
+					"matchColumn": "subprocess,subpro",
+					"scope": "public",
+					"type": "object"
+				},
+				{
+					"name": "data",
+					"kind": "storage",
+					"scope": "public",
+					"type": "object"
+				}
+			],
+			"methods": [
+				{
+					"name": "create",
+					"applyTo": "dataClass",
+					"scope": "publicOnServer",
+					"from": "$mainModel.Log.methods.create",
+					"userDefined": true
+				}
+			]
+		},
+		{
+			"name": "SubProcess",
+			"className": "SubProcess",
+			"collectionName": "SubProcessCollection",
+			"scope": "public",
+			"attributes": [
+				{
+					"name": "ID",
+					"kind": "storage",
+					"scope": "public",
+					"unique": true,
+					"autosequence": true,
+					"autogenerate": true,
+					"type": "uuid",
+					"identifying": true,
+					"primKey": true
+				},
+				{
+					"name": "type",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "state",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "nodes",
+					"kind": "relatedEntities",
+					"scope": "public",
+					"type": "GeneralNodeCollection",
+					"reversePath": true,
+					"path": "subProcess"
+				},
+				{
+					"name": "installed",
+					"kind": "storage",
+					"matchColumn": "info",
+					"scope": "public",
+					"type": "date",
+					"simpleDate": false
+				}
+			],
+			"methods": [
+				{
+					"name": "Log",
+					"applyTo": "entity",
+					"scope": "publicOnServer",
+					"from": "$mainModel.SubProcess.entityMethods.Log",
+					"userDefined": true
+				}
+			]
+		}
+	]
+}
