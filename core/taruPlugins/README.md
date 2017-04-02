@@ -1,2 +1,0 @@
-# taruPlugins
-Plugins for taruggiz

@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<permissions>
-	<allow action="upload" groupName="User" groupID="4665A44951FD6A49B0D92007016E13F8" resource="upload" temporaryForcePermissions="false" type="service"/>
-</permissions>
-<!--<allow action="upload" groupName="Admin"  groupID="01000000000000000000000000000000" resource="upload"  temporaryForcePermissions="false" type="service"/>-->

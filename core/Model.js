@@ -1,9 +1,0 @@
-﻿include("./methods/Account/Account-events.js");
-include("./methods/Account/Account-methods.js");
-include("./methods/Plugin/Plugin-methods.js");
-include("./methods/EndPoint/EndPoint-methods.js");
-include("./methods/SystemWorker/SystemWorker-methods.js");
-include("./methods/EndPoint/EndPoint-events.js");
-include("./methods/SystemWorker/SystemWorker-events.js");
-include("./methods/Connector/Connector-events.js");
-include("./methods/Connector/Connector-methods.js");

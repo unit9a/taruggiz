@@ -1,0 +1,23 @@
+{
+  "name": "taruggiz",
+  "components": [
+    {
+      "type": "backend",
+      "template": "wakanda-javascript",
+      "name": "backend",
+      "path": "./backend"
+    },
+        {
+      "type": "mobile",
+      "template": "ionic2-template",
+      "name": "mobile",
+      "path": "./mobile"
+    },
+        {
+      "type": "web",
+      "template": "angular-cli",
+      "name": "web",
+      "path": "./web"
+    }
+    ]
+}
