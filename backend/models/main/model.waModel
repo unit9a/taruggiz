@@ -19,8 +19,8 @@
 					"pathVisible": true,
 					"isOpen": "true",
 					"position": {
-						"X": 387,
-						"Y": 239
+						"X": 352,
+						"Y": 282
 					}
 				}
 			},
@@ -30,8 +30,8 @@
 					"isOpen": "true",
 					"pathVisible": true,
 					"position": {
-						"X": 770,
-						"Y": 405
+						"X": 702,
+						"Y": 328
 					}
 				}
 			},
@@ -44,6 +44,11 @@
 						"X": 10,
 						"Y": 232
 					}
+				},
+				"attributes": {
+					"children": {
+						"note": "contains information on second level threads if any are used"
+					}
 				}
 			},
 			"Log": {
@@ -52,8 +57,8 @@
 					"isOpen": "true",
 					"pathVisible": true,
 					"position": {
-						"X": 25,
-						"Y": 5
+						"X": 31,
+						"Y": 23
 					}
 				}
 			}
@@ -193,6 +198,13 @@
 					"path": "GeneralNode"
 				},
 				{
+					"name": "subProcess",
+					"kind": "relatedEntity",
+					"scope": "public",
+					"type": "SubProcess",
+					"path": "SubProcess"
+				},
+				{
 					"name": "children",
 					"kind": "relatedEntities",
 					"matchColumn": "decendant,generalNodeCollection",
@@ -208,13 +220,6 @@
 					"type": "DatumCollection",
 					"reversePath": true,
 					"path": "owner"
-				},
-				{
-					"name": "subProcess",
-					"kind": "relatedEntity",
-					"scope": "public",
-					"type": "SubProcess",
-					"path": "SubProcess"
 				}
 			],
 			"methods": [
@@ -326,6 +331,12 @@
 					"scope": "public",
 					"type": "date",
 					"simpleDate": false
+				},
+				{
+					"name": "children",
+					"kind": "storage",
+					"scope": "public",
+					"type": "object"
 				}
 			],
 			"methods": [
