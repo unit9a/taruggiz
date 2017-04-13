@@ -1,9 +1,9 @@
 var taruCore = require('taruCore');
 
 model.GeneralNode.entityMethods.GetType = function() {
-	return taruCore.parseGeneralNode('type', this.type );
+	return taruCore.dictionaryLookup('types', this.type );
 };
 
 model.GeneralNode.entityMethods.GetState = function() {
-	return taruCore.parseGeneralNode('state', this.state );
+	return taruCore.parseGeneralNode('states', this.state );
 };

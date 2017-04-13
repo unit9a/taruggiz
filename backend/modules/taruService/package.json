@@ -1,0 +1,7 @@
+{
+  "name": "taruggizService",
+  "version": "0.0.4",
+  "description": "taruggiz server side javascript code",
+  "main": "taruService.js",
+  "author": "unit9a"
+} 

@@ -20,7 +20,7 @@
 					"isOpen": "true",
 					"position": {
 						"X": 352,
-						"Y": 282
+						"Y": 257
 					}
 				}
 			},
@@ -30,8 +30,8 @@
 					"isOpen": "true",
 					"pathVisible": true,
 					"position": {
-						"X": 702,
-						"Y": 328
+						"X": 697,
+						"Y": 285
 					}
 				}
 			},
@@ -57,8 +57,8 @@
 					"isOpen": "true",
 					"pathVisible": true,
 					"position": {
-						"X": 31,
-						"Y": 23
+						"X": 29,
+						"Y": 14
 					}
 				}
 			}
@@ -66,7 +66,7 @@
 		"model": {
 			"scriptMode": "manual",
 			"workspaceLeft": 0,
-			"workspaceTop": 0,
+			"workspaceTop": 100,
 			"relationCurve": {
 				"run": true,
 				"mode": 1
@@ -191,18 +191,18 @@
 					"type": "string"
 				},
 				{
-					"name": "parent",
-					"kind": "relatedEntity",
-					"scope": "public",
-					"type": "GeneralNode",
-					"path": "GeneralNode"
-				},
-				{
 					"name": "subProcess",
 					"kind": "relatedEntity",
 					"scope": "public",
 					"type": "SubProcess",
 					"path": "SubProcess"
+				},
+				{
+					"name": "parent",
+					"kind": "relatedEntity",
+					"scope": "public",
+					"type": "GeneralNode",
+					"path": "GeneralNode"
 				},
 				{
 					"name": "children",
@@ -337,14 +337,46 @@
 					"kind": "storage",
 					"scope": "public",
 					"type": "object"
+				},
+				{
+					"name": "name",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "module",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "discription",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
 				}
 			],
 			"methods": [
+				{
+					"name": "GetInfo",
+					"applyTo": "entity",
+					"scope": "publicOnServer",
+					"from": "$mainModel.SubProcess.entityMethods.GetInfo",
+					"userDefined": true
+				},
 				{
 					"name": "Log",
 					"applyTo": "entity",
 					"scope": "publicOnServer",
 					"from": "$mainModel.SubProcess.entityMethods.Log",
+					"userDefined": true
+				},
+				{
+					"name": "startWorker",
+					"applyTo": "entity",
+					"scope": "publicOnServer",
+					"from": "$mainModel.SubProcess.entityMethods.startWorker",
 					"userDefined": true
 				}
 			]

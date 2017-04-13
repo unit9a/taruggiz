@@ -1,0 +1,623 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"array"
+			],
+			[
+				"stri",
+				"stringify"
+			],
+			[
+				"pe",
+				"pending"
+			],
+			[
+				"tas",
+				"taskCount"
+			],
+			[
+				"ta",
+				"taskCount"
+			],
+			[
+				"md",
+				"MdAutoMiner"
+			],
+			[
+				"cal",
+				"call"
+			],
+			[
+				"v",
+				"var"
+			],
+			[
+				"th",
+				"throw"
+			],
+			[
+				"u",
+				"updateActivity"
+			],
+			[
+				"file",
+				"fileName"
+			],
+			[
+				"fil",
+				"fileName"
+			],
+			[
+				"task",
+				"tasksArr"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"_",
+				"_this"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"ro",
+				"rootPath"
+			],
+			[
+				"ex",
+				"extractAllTasks"
+			],
+			[
+				"va",
+				"validTasks"
+			],
+			[
+				"en",
+				"entryName"
+			],
+			[
+				"fas",
+				"false"
+			],
+			[
+				"te",
+				"testScript"
+			],
+			[
+				"js",
+				"JSON"
+			],
+			[
+				"ch",
+				"checkFileNames"
+			],
+			[
+				"ou",
+				"output"
+			],
+			[
+				"exist",
+				"existant"
+			],
+			[
+				"err",
+				"errors"
+			],
+			[
+				"p",
+				"path"
+			],
+			[
+				"d",
+				"dir"
+			],
+			[
+				"pa",
+				"pathInfo"
+			],
+			[
+				"e",
+				"exist"
+			],
+			[
+				"outp",
+				"outputDir"
+			],
+			[
+				"ba",
+				"badTask"
+			],
+			[
+				"mod",
+				"modules"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"test",
+				"tests"
+			],
+			[
+				"chec",
+				"checkPaths"
+			],
+			[
+				"no",
+				"not"
+			],
+			[
+				"n",
+				"not"
+			],
+			[
+				"to",
+				"toMarkdown"
+			],
+			[
+				"in",
+				"invalidTasks"
+			],
+			[
+				"erro",
+				"error"
+			],
+			[
+				"name",
+				"nameCheck"
+			],
+			[
+				"root",
+				"rootPath"
+			],
+			[
+				"ma",
+				"markdown"
+			],
+			[
+				"mo",
+				"modules"
+			],
+			[
+				"b",
+				"before"
+			],
+			[
+				"pen",
+				"pendingTasks"
+			],
+			[
+				"s",
+				"status"
+			],
+			[
+				"r",
+				"rootPath"
+			],
+			[
+				"fi",
+				"fileInfo"
+			],
+			[
+				"fo",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"do",
+				"does"
+			],
+			[
+				"Srting",
+				"String"
+			],
+			[
+				"obje",
+				"object"
+			],
+			[
+				"dir",
+				"isDirectory"
+			],
+			[
+				"is",
+				"isDirectory"
+			],
+			[
+				"path",
+				"pathIsVaild"
+			],
+			[
+				"get",
+				"getDirRoot"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ge",
+				"getDirRoot"
+			],
+			[
+				"thr",
+				"thrown"
+			],
+			[
+				"ca",
+				"catch"
+			],
+			[
+				"co",
+				"configPath"
+			],
+			[
+				"Ge",
+				"getDirRoot"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"tee",
+				"testServer"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/projects/taruggiz/package.json",
+		"/D/projects/mdMiner/mdMiner/package.json",
+		"/D/projects/taruggiz/README.md",
+		"/D/projects/taruggiz/taruCore/README.md",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/tests/mock/testScript.js",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/tests/specs/test1.js",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/tests/mock/fakeTasks.json",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/package.json",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/mdMinerSpwan.js",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/mdAuto.js",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/extractor.js",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/tests/mock/singleFile.md",
+		"/C/Users/redav/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/tests/scripts/setup.js",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/specs/test1.js",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/tests/output/test.js",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/tests/mock/badJSON.json",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/tests/mock/dummyConfig.json",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/tests/.testem.json",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/tests/index.mustache",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/tests/scripts/test.js",
+		"/C/Users/redav/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/tests/index.html",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/scrap.js",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/tests/scripts/test1.js",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/tests/setup.js",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/tests/testServer/index.html",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/---testem.json",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/testem.log",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/tests/testem.log",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/tests/testServer/temp/browserified.js",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/tests/testServer/r.js",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/tests/testServer/browserified.js",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/tests/output/setup.js",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/updateMdFiles.js",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/node_modules/node-inspector/docs/embedding.md",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/node_modules/node-inspector/README.md",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/testem.json",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/tests/testServer/auto.js",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/tests/scripts/testem.log",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/tests/scripts/brow.js",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/tests/scripts/browserified.js",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/tests/testServer/core.js",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/tests/scripts/core.js",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/tests/test_setup.js",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/package.json",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/tests/test_Module.js",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/.testem.json",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/browserified.js",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/mdAuto1.js",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/tests/testem.json",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/tests/mockConfig.json",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/tests/configParser.js",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/mdauto/tests/toolConfig",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/node_modules/mdextract/index.js",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/dev/taruRPC.md",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/webWorkers/taruWebWkr/taruCore.md",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/webWorkers/taruWebWkr/README.md",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/webWorkers/taruWebWkr/docs.md",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/webWorkers/taruWebWkr/readme3.md",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/webWorkers/taruWebWkr/test.md",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/webWorkers/taruWebWkr/readme2.md",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/webWorkers/taruWebWkr/readme.md",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruggiz/libs/taruRPC/test.md",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruCore/scrapService",
+		"/D/projects/taru/taruggiz/taruggiz/backend/modules/taruCore/taruService.js",
+		"/D/projects/taru/taruggiz/taruggiz Solution/taruggiz.waSolution",
+		"/C/Users/redav/Downloads/29451113-taryhost.cert",
+		"/C/Program Files/Logitech/SetPointP/players.ini",
+		"/D/projects/taru/taruggiz/taruggiz/web/scrap.js",
+		"/C/Users/redav/Downloads/6202654-www.example.com.cert",
+		"/D/projects/taru/taruggiz/docs/README.md",
+		"/D/projects/taru/taruggiz/docs/LICENSE",
+		"/D/projects/taru/taruggiz/taruggiz/web/gulpfile.js",
+		"/D/projects/taru/taruggiz/.gitignore"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"taskObj.name",
+			"entryName",
+			"success",
+			"pending",
+			"pendingTasks",
+			"preparedTasked",
+			"tasksArr",
+			"fileName] = ",
+			"_this.report.status[taskObj.name][",
+			"tasks",
+			"extractor",
+			"miner",
+			"target",
+			"\n        debugger;",
+			"extractMarkDown",
+			"));",
+			"\ndebugger;",
+			" debugger;",
+			"displayReport",
+			"this",
+			"debugger",
+			"../mock",
+			"../",
+			"debu",
+			"debugger",
+			"\"then returns",
+			"debugger",
+			"\"./../../\"",
+			"./../../",
+			";\n",
+			"invalid",
+			"this.invalidTasks",
+			"coun",
+			"checkPaths",
+			"{\n",
+			"_this",
+			"invaildCount",
+			"pathHasVaild",
+			"debug",
+			"deb",
+			"throws error",
+			"debugger",
+			"pathHasVaild.output",
+			"pathHasVaild.input",
+			"pathIsVaild",
+			", badEntry,",
+			"falsyPathFiles",
+			"srting",
+			"throws error given",
+			"statusObj",
+			"folderPath",
+			"FAILDED",
+			"var mdAuto",
+			"settings",
+			"'",
+			"debugger",
+			"path",
+			"tasks",
+			"debugger",
+			"test1",
+			"debugger",
+			"browserified",
+			"setup.js",
+			"tests1",
+			"test_setup",
+			"test_Module",
+			"eachLine"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"mdFileName",
+			"this.pendingTasks",
+			"preparedTasks",
+			"pendingTasks",
+			"fileName,",
+			"_this.updateStatus(",
+			"tasksArr",
+			"miner",
+			"writePathString",
+			"_this",
+			"tests/mock",
+			"\"to return",
+			"modulePath",
+			"this.report.invalidTasks",
+			"invalidCount",
+			"taskCheck",
+			"then throws an error",
+			"pathHasVaild.outputPath",
+			"pathHasVaild.inputPath",
+			"pathHasVaild",
+			", badTask,",
+			"badEntry",
+			"string",
+			"throws error when given",
+			"report",
+			"path",
+			"FAILED",
+			"taskObj",
+			"\"",
+			"pathString",
+			"setup.js",
+			"btest.js",
+			"test1.js",
+			"test1",
+			"test_Module",
+			"test_setup"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "settings.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

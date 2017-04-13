@@ -1,17 +1,22 @@
 {
-	"commonStates":{
-		"-1":"disabled"
-		,"__comment":"enabled is either a 0 or 1 below"
-		,"0":"inactive'"
-		,"1":"active"
-	}
-	,"generalNode":{
-		"types":{
-			"1": "general IO"
-			,"2": "network IO"
-		}
-		,"states":{
-			"100":"Blocked"
-		}
-	}
+    "commonStates": {
+        "-1": "disabled",
+        "__comment": "enabled is either a 0 or 1 below",
+        "0": "inactive'",
+        "1": "active"
+    },
+    "generalNode": {
+        "types": {
+            "1": "general IO",
+            "2": "network IO"
+        },
+        "states": {
+            "100": "Blocked"
+        }
+    },
+    "workerType": {
+        "1": "nodejs",
+        "2": "system",
+        "3": "wakanda"
+    }
 }

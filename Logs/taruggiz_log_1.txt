@@ -1,0 +1,622 @@
+2017-04-03 22:11:09 [wakanda.supervisor] INFO - solution closed
+2017-04-03 22:11:09 [wakanda] INFO - Opens the solution "D:\projects\taruggiz\app.waSolution" for running
+2017-04-03 22:11:09 [wakanda.taruggiz] INFO - Users and groups directory opened
+2017-04-03 22:11:09 [IndexManager] INFO - Index  on Datum.ID built in 0 ms
+2017-04-03 22:11:09 [IndexManager] INFO - Index  on Datum.owner built in 0 ms
+2017-04-03 22:11:09 [IndexManager] INFO - Index  on GeneralNode.ID built in 0 ms
+2017-04-03 22:11:09 [IndexManager] INFO - Index  on GeneralNode.parent built in 0 ms
+2017-04-03 22:11:09 [IndexManager] INFO - Index  on GeneralNode.subProcess built in 0 ms
+2017-04-03 22:11:09 [IndexManager] INFO - Index  on Log.ID built in 0 ms
+2017-04-03 22:11:09 [IndexManager] INFO - Index  on SubProcess.ID built in 0 ms
+2017-04-03 22:11:09 [wakanda.taruggiz.backend] INFO - Datastore opened
+2017-04-03 22:11:09 [wakanda.taruggiz.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-04-03 22:11:09 [wakanda.taruggiz.backend] INFO - "backend" project opened
+2017-04-03 22:11:09 [wakanda.taruggiz.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-04-03 22:11:09 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-04-03 22:11:09 [wakanda.taruggiz] INFO - "taruggiz" solution opened
+2017-04-03 22:11:09 [wakanda] INFO - Starts "taruggiz" solution
+2017-04-03 22:11:09 [wakanda.taruggiz.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-04-03 22:11:09 [wakanda.taruggiz.ServerAdmin] INFO - HTTP Server started
+2017-04-03 22:11:09 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project started
+2017-04-03 22:11:10 [wakanda.taruggiz.backend] INFO - HTTP Server started
+2017-04-03 22:11:10 [wakanda.taruggiz.backend] INFO - "backend" project started
+2017-04-03 22:11:10 [wakanda.taruggiz.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-04-03 22:11:10 [wakanda.taruggiz.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-04-03 22:11:10 [wakanda.taruggiz.backend] INFO - Executes the bootstrap file(s)
+2017-04-03 22:11:10 [wakanda.taruggiz.backend] INFO - Bootstrap file(s) executed
+2017-04-03 22:11:10 [wakanda.taruggiz] INFO - "taruggiz" solution started
+2017-04-03 22:11:10 [wakanda] INFO - "taruggiz" solution has been successfully opened for running (duration: 1107 ms)
+2017-04-03 22:11:10 [wakanda.supervisor] INFO - solution opened
+2017-04-03 22:15:49 [wakanda.taruggiz] INFO - Users and groups directory opened
+2017-04-03 22:15:49 [IndexManager] INFO - Index  on Datum.ID built in 0 ms
+2017-04-03 22:15:49 [IndexManager] INFO - Index  on Datum.owner built in 0 ms
+2017-04-03 22:15:49 [IndexManager] INFO - Index  on GeneralNode.ID built in 0 ms
+2017-04-03 22:15:49 [IndexManager] INFO - Index  on GeneralNode.parent built in 0 ms
+2017-04-03 22:15:49 [IndexManager] INFO - Index  on GeneralNode.subProcess built in 0 ms
+2017-04-03 22:15:49 [IndexManager] INFO - Index  on Log.ID built in 0 ms
+2017-04-03 22:15:49 [IndexManager] INFO - Index  on SubProcess.ID built in 0 ms
+2017-04-03 22:15:49 [wakanda.taruggiz.backend] INFO - Datastore opened
+2017-04-03 22:15:49 [wakanda.taruggiz.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-04-03 22:15:49 [wakanda.taruggiz.backend] INFO - "backend" project opened
+2017-04-03 22:15:49 [wakanda.taruggiz.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-04-03 22:15:49 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-04-03 22:15:49 [wakanda.taruggiz] INFO - "taruggiz" solution opened
+2017-04-03 22:15:49 [wakanda] INFO - Starts "taruggiz" solution
+2017-04-03 22:15:50 [wakanda.taruggiz.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-04-03 22:15:50 [wakanda.taruggiz.ServerAdmin] INFO - HTTP Server started
+2017-04-03 22:15:50 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project started
+2017-04-03 22:15:50 [wakanda.taruggiz.backend] INFO - HTTP Server started
+2017-04-03 22:15:50 [wakanda.taruggiz.backend] INFO - "backend" project started
+2017-04-03 22:15:50 [wakanda.taruggiz.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-04-03 22:15:50 [wakanda.taruggiz.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-04-03 22:15:50 [wakanda.taruggiz.backend] INFO - Executes the bootstrap file(s)
+2017-04-03 22:15:50 [wakanda.taruggiz.backend] INFO - Bootstrap file(s) executed
+2017-04-03 22:15:50 [wakanda.taruggiz] INFO - "taruggiz" solution started
+2017-04-03 22:15:50 [wakanda] INFO - "taruggiz" solution has been successfully opened for running (duration: 1889 ms)
+2017-04-03 22:15:50 [wakanda.supervisor] INFO - solution opened
+2017-04-03 22:16:24 [wakanda.supervisor] INFO - solution closed
+2017-04-03 22:16:24 [wakanda] INFO - Opens the solution "D:\projects\taruggiz\app.waSolution" for running
+2017-04-03 22:16:24 [wakanda.taruggiz] INFO - Users and groups directory opened
+2017-04-03 22:16:24 [IndexManager] INFO - Index  on Datum.ID built in 0 ms
+2017-04-03 22:16:24 [IndexManager] INFO - Index  on Datum.owner built in 0 ms
+2017-04-03 22:16:24 [IndexManager] INFO - Index  on GeneralNode.ID built in 0 ms
+2017-04-03 22:16:24 [IndexManager] INFO - Index  on GeneralNode.parent built in 0 ms
+2017-04-03 22:16:24 [IndexManager] INFO - Index  on GeneralNode.subProcess built in 0 ms
+2017-04-03 22:16:24 [IndexManager] INFO - Index  on Log.ID built in 0 ms
+2017-04-03 22:16:24 [IndexManager] INFO - Index  on SubProcess.ID built in 0 ms
+2017-04-03 22:16:24 [wakanda.taruggiz.backend] INFO - Datastore opened
+2017-04-03 22:16:24 [wakanda.taruggiz.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-04-03 22:16:24 [wakanda.taruggiz.backend] INFO - "backend" project opened
+2017-04-03 22:16:24 [wakanda.taruggiz.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-04-03 22:16:24 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-04-03 22:16:24 [wakanda.taruggiz] INFO - "taruggiz" solution opened
+2017-04-03 22:16:24 [wakanda] INFO - Starts "taruggiz" solution
+2017-04-03 22:16:24 [wakanda.taruggiz.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-04-03 22:16:25 [wakanda.taruggiz.ServerAdmin] INFO - HTTP Server started
+2017-04-03 22:16:25 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project started
+2017-04-03 22:16:25 [wakanda.taruggiz.backend] INFO - HTTP Server started
+2017-04-03 22:16:25 [wakanda.taruggiz.backend] INFO - "backend" project started
+2017-04-03 22:16:25 [wakanda.taruggiz.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-04-03 22:16:25 [wakanda.taruggiz.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-04-03 22:16:25 [wakanda.taruggiz.backend] INFO - Executes the bootstrap file(s)
+2017-04-03 22:16:25 [wakanda.taruggiz.backend] INFO - Bootstrap file(s) executed
+2017-04-03 22:16:25 [wakanda.taruggiz] INFO - "taruggiz" solution started
+2017-04-03 22:16:25 [wakanda] INFO - "taruggiz" solution has been successfully opened for running (duration: 1713 ms)
+2017-04-03 22:16:25 [wakanda.supervisor] INFO - solution opened
+2017-04-03 22:16:32 [wakanda.supervisor] INFO - solution closed
+2017-04-03 22:16:32 [wakanda] INFO - Opens the solution "D:\projects\taruggiz\app.waSolution" for running
+2017-04-03 22:16:33 [wakanda.taruggiz] INFO - Users and groups directory opened
+2017-04-03 22:16:33 [IndexManager] INFO - Index  on Datum.ID built in 0 ms
+2017-04-03 22:16:33 [IndexManager] INFO - Index  on Datum.owner built in 0 ms
+2017-04-03 22:16:33 [IndexManager] INFO - Index  on GeneralNode.ID built in 0 ms
+2017-04-03 22:16:33 [IndexManager] INFO - Index  on GeneralNode.parent built in 1 ms
+2017-04-03 22:16:33 [IndexManager] INFO - Index  on GeneralNode.subProcess built in 1 ms
+2017-04-03 22:16:33 [IndexManager] INFO - Index  on Log.ID built in 0 ms
+2017-04-03 22:16:33 [IndexManager] INFO - Index  on SubProcess.ID built in 1 ms
+2017-04-03 22:16:33 [wakanda.taruggiz.backend] INFO - Datastore opened
+2017-04-03 22:16:33 [wakanda.taruggiz.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-04-03 22:16:33 [wakanda.taruggiz.backend] INFO - "backend" project opened
+2017-04-03 22:16:33 [wakanda.taruggiz.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-04-03 22:16:33 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-04-03 22:16:33 [wakanda.taruggiz] INFO - "taruggiz" solution opened
+2017-04-03 22:16:33 [wakanda] INFO - Starts "taruggiz" solution
+2017-04-03 22:16:34 [wakanda.taruggiz.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-04-03 22:16:34 [wakanda.taruggiz.ServerAdmin] INFO - HTTP Server started
+2017-04-03 22:16:34 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project started
+2017-04-03 22:16:34 [wakanda.taruggiz.backend] INFO - HTTP Server started
+2017-04-03 22:16:34 [wakanda.taruggiz.backend] INFO - "backend" project started
+2017-04-03 22:16:34 [wakanda.taruggiz.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-04-03 22:16:34 [wakanda.taruggiz.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-04-03 22:16:34 [wakanda.taruggiz.backend] INFO - Executes the bootstrap file(s)
+2017-04-03 22:16:34 [wakanda.taruggiz.backend] INFO - Bootstrap file(s) executed
+2017-04-03 22:16:34 [wakanda.taruggiz] INFO - "taruggiz" solution started
+2017-04-03 22:16:34 [wakanda] INFO - "taruggiz" solution has been successfully opened for running (duration: 1998 ms)
+2017-04-03 22:16:34 [wakanda.supervisor] INFO - solution opened
+2017-04-03 22:23:02 [wakanda.supervisor] INFO - solution closed
+2017-04-03 22:23:02 [wakanda] INFO - Opens the solution "D:\projects\taruggiz\app.waSolution" for running
+2017-04-03 22:23:02 [wakanda.taruggiz] INFO - Users and groups directory opened
+2017-04-03 22:23:02 [IndexManager] INFO - Index  on Datum.ID built in 0 ms
+2017-04-03 22:23:02 [IndexManager] INFO - Index  on Datum.owner built in 0 ms
+2017-04-03 22:23:02 [IndexManager] INFO - Index  on GeneralNode.ID built in 0 ms
+2017-04-03 22:23:02 [IndexManager] INFO - Index  on GeneralNode.parent built in 0 ms
+2017-04-03 22:23:02 [IndexManager] INFO - Index  on GeneralNode.subProcess built in 0 ms
+2017-04-03 22:23:02 [IndexManager] INFO - Index  on Log.ID built in 0 ms
+2017-04-03 22:23:02 [IndexManager] INFO - Index  on SubProcess.ID built in 0 ms
+2017-04-03 22:23:02 [wakanda.taruggiz.backend] INFO - Datastore opened
+2017-04-03 22:23:02 [wakanda.taruggiz.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-04-03 22:23:02 [wakanda.taruggiz.backend] INFO - "backend" project opened
+2017-04-03 22:23:02 [wakanda.taruggiz.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-04-03 22:23:02 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-04-03 22:23:02 [wakanda.taruggiz] INFO - "taruggiz" solution opened
+2017-04-03 22:23:02 [wakanda] INFO - Starts "taruggiz" solution
+2017-04-03 22:23:03 [wakanda.taruggiz.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-04-03 22:23:03 [wakanda.taruggiz.ServerAdmin] INFO - HTTP Server started
+2017-04-03 22:23:03 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project started
+2017-04-03 22:23:03 [wakanda.taruggiz.backend] INFO - HTTP Server started
+2017-04-03 22:23:03 [wakanda.taruggiz.backend] INFO - "backend" project started
+2017-04-03 22:23:03 [wakanda.taruggiz.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-04-03 22:23:03 [wakanda.taruggiz.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-04-03 22:23:03 [wakanda.taruggiz.backend] INFO - Executes the bootstrap file(s)
+2017-04-03 22:23:03 [wakanda.taruggiz.backend] INFO - Bootstrap file(s) executed
+2017-04-03 22:23:03 [wakanda.taruggiz] INFO - "taruggiz" solution started
+2017-04-03 22:23:03 [wakanda] INFO - "taruggiz" solution has been successfully opened for running (duration: 1273 ms)
+2017-04-03 22:23:03 [wakanda.supervisor] INFO - solution opened
+2017-04-03 22:25:23 [wakanda] INFO - Stops "taruggiz" solution
+2017-04-03 22:25:24 [wakanda.taruggiz.backend] INFO - "backend" project stopped
+2017-04-03 22:25:26 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project stopped
+2017-04-03 22:25:26 [wakanda.taruggiz] INFO - "taruggiz" solution stopped
+2017-04-03 22:25:26 [wakanda] INFO - Closes "taruggiz" solution
+2017-04-03 22:25:26 [wakanda.taruggiz.backend] INFO - "backend" project closed
+2017-04-03 22:25:26 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project closed
+2017-04-03 22:25:27 [wakanda.taruggiz] INFO - "taruggiz" solution closed
+2017-04-03 22:34:22 [wakanda.supervisor] INFO - solution closed
+2017-04-03 22:34:22 [wakanda] INFO - Opens the solution "D:\projects\taruggiz\app.waSolution" for running
+2017-04-03 22:34:22 [wakanda.taruggiz] INFO - Users and groups directory opened
+2017-04-03 22:34:22 [IndexManager] INFO - Index  on Datum.ID built in 0 ms
+2017-04-03 22:34:22 [IndexManager] INFO - Index  on Datum.owner built in 0 ms
+2017-04-03 22:34:22 [IndexManager] INFO - Index  on GeneralNode.ID built in 0 ms
+2017-04-03 22:34:22 [IndexManager] INFO - Index  on GeneralNode.parent built in 0 ms
+2017-04-03 22:34:22 [IndexManager] INFO - Index  on GeneralNode.subProcess built in 0 ms
+2017-04-03 22:34:22 [IndexManager] INFO - Index  on Log.ID built in 0 ms
+2017-04-03 22:34:22 [IndexManager] INFO - Index  on SubProcess.ID built in 0 ms
+2017-04-03 22:34:22 [wakanda.taruggiz.backend] INFO - Datastore opened
+2017-04-03 22:34:22 [wakanda.taruggiz.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-04-03 22:34:22 [wakanda.taruggiz.backend] INFO - "backend" project opened
+2017-04-03 22:34:22 [wakanda.taruggiz.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-04-03 22:34:22 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-04-03 22:34:22 [wakanda.taruggiz] INFO - "taruggiz" solution opened
+2017-04-03 22:34:22 [wakanda] INFO - Starts "taruggiz" solution
+2017-04-03 22:34:23 [wakanda.taruggiz.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-04-03 22:34:23 [wakanda.taruggiz.ServerAdmin] INFO - HTTP Server started
+2017-04-03 22:34:23 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project started
+2017-04-03 22:34:23 [wakanda.taruggiz.backend] INFO - HTTP Server started
+2017-04-03 22:34:23 [wakanda.taruggiz.backend] INFO - "backend" project started
+2017-04-03 22:34:23 [wakanda.taruggiz.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-04-03 22:34:23 [wakanda.taruggiz.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-04-03 22:34:23 [wakanda.taruggiz.backend] INFO - Executes the bootstrap file(s)
+2017-04-03 22:34:23 [wakanda.taruggiz.backend] INFO - Bootstrap file(s) executed
+2017-04-03 22:34:23 [wakanda.taruggiz] INFO - "taruggiz" solution started
+2017-04-03 22:34:23 [wakanda] INFO - "taruggiz" solution has been successfully opened for running (duration: 1209 ms)
+2017-04-03 22:34:23 [wakanda.supervisor] INFO - solution opened
+2017-04-04 21:27:26 [wakanda.taruggiz] INFO - Users and groups directory opened
+2017-04-04 21:27:26 [IndexManager] INFO - Index  on Datum.ID built in 0 ms
+2017-04-04 21:27:26 [IndexManager] INFO - Index  on Datum.owner built in 0 ms
+2017-04-04 21:27:26 [IndexManager] INFO - Index  on GeneralNode.ID built in 0 ms
+2017-04-04 21:27:26 [IndexManager] INFO - Index  on GeneralNode.parent built in 0 ms
+2017-04-04 21:27:26 [IndexManager] INFO - Index  on GeneralNode.subProcess built in 0 ms
+2017-04-04 21:27:26 [IndexManager] INFO - Index  on Log.ID built in 0 ms
+2017-04-04 21:27:26 [IndexManager] INFO - Index  on SubProcess.ID built in 0 ms
+2017-04-04 21:27:26 [wakanda.taruggiz.backend] INFO - Datastore opened
+2017-04-04 21:27:26 [wakanda.taruggiz.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-04-04 21:27:26 [wakanda.taruggiz.backend] INFO - "backend" project opened
+2017-04-04 21:27:26 [wakanda.taruggiz.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-04-04 21:27:26 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-04-04 21:27:26 [wakanda.taruggiz] INFO - "taruggiz" solution opened
+2017-04-04 21:27:26 [wakanda] INFO - Starts "taruggiz" solution
+2017-04-04 21:27:26 [wakanda.taruggiz.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-04-04 21:27:27 [wakanda.taruggiz.ServerAdmin] INFO - HTTP Server started
+2017-04-04 21:27:27 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project started
+2017-04-04 21:27:27 [wakanda.taruggiz.backend] INFO - HTTP Server started
+2017-04-04 21:27:27 [wakanda.taruggiz.backend] INFO - "backend" project started
+2017-04-04 21:27:27 [wakanda.taruggiz.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-04-04 21:27:27 [wakanda.taruggiz.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-04-04 21:27:27 [wakanda.taruggiz.backend] INFO - Executes the bootstrap file(s)
+2017-04-04 21:27:27 [wakanda.taruggiz.backend] INFO - Bootstrap file(s) executed
+2017-04-04 21:27:27 [wakanda.taruggiz] INFO - "taruggiz" solution started
+2017-04-04 21:27:27 [wakanda] INFO - "taruggiz" solution has been successfully opened for running (duration: 1417 ms)
+2017-04-04 21:27:27 [wakanda.supervisor] INFO - solution opened
+2017-04-04 21:32:05 [wakanda.taruggiz.backend] INFO - PASS -  testEquality
+2017-04-04 21:32:05 [wakanda.taruggiz.backend] INFO - PASS -  testOK
+2017-04-04 21:33:16 [wakanda.taruggiz.backend] WARN - FAIL -  testEquality - asgsert is not defined
+2017-04-04 21:33:16 [wakanda.taruggiz.backend] INFO - PASS -  testOK
+2017-04-04 21:33:34 [wakanda.taruggiz.backend] INFO - PASS -  testEquality
+2017-04-04 21:33:34 [wakanda.taruggiz.backend] INFO - PASS -  testOK
+2017-04-04 21:39:57 [wakanda.POSX] ERROR - [10053] Unknown error, task #1864, task name is HTTP connection handler
+2017-04-04 22:39:18 [wakanda.taruggiz] INFO - Users and groups directory opened
+2017-04-04 22:39:18 [IndexManager] INFO - Index  on Datum.ID built in 0 ms
+2017-04-04 22:39:18 [IndexManager] INFO - Index  on Datum.owner built in 0 ms
+2017-04-04 22:39:18 [IndexManager] INFO - Index  on GeneralNode.ID built in 0 ms
+2017-04-04 22:39:18 [IndexManager] INFO - Index  on GeneralNode.parent built in 0 ms
+2017-04-04 22:39:18 [IndexManager] INFO - Index  on GeneralNode.subProcess built in 0 ms
+2017-04-04 22:39:18 [IndexManager] INFO - Index  on Log.ID built in 0 ms
+2017-04-04 22:39:18 [IndexManager] INFO - Index  on SubProcess.ID built in 0 ms
+2017-04-04 22:39:18 [wakanda.taruggiz.backend] INFO - Datastore opened
+2017-04-04 22:39:18 [wakanda.taruggiz.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-04-04 22:39:18 [wakanda.taruggiz.backend] INFO - "backend" project opened
+2017-04-04 22:39:18 [wakanda.taruggiz.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-04-04 22:39:18 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-04-04 22:39:18 [wakanda.taruggiz] INFO - "taruggiz" solution opened
+2017-04-04 22:39:18 [wakanda] INFO - Starts "taruggiz" solution
+2017-04-04 22:39:18 [wakanda.taruggiz.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-04-04 22:39:18 [wakanda.taruggiz.ServerAdmin] INFO - HTTP Server started
+2017-04-04 22:39:18 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project started
+2017-04-04 22:39:19 [wakanda.taruggiz.backend] INFO - HTTP Server started
+2017-04-04 22:39:19 [wakanda.taruggiz.backend] INFO - "backend" project started
+2017-04-04 22:39:19 [wakanda.taruggiz.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-04-04 22:39:19 [wakanda.taruggiz.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-04-04 22:39:19 [wakanda.taruggiz.backend] INFO - Executes the bootstrap file(s)
+2017-04-04 22:39:19 [wakanda.taruggiz.backend] INFO - Bootstrap file(s) executed
+2017-04-04 22:39:19 [wakanda.taruggiz] INFO - "taruggiz" solution started
+2017-04-04 22:39:19 [wakanda] INFO - "taruggiz" solution has been successfully opened for running (duration: 1348 ms)
+2017-04-04 22:39:19 [wakanda.supervisor] INFO - solution opened
+2017-04-04 22:40:27 [wakanda.taruggiz.backend] WARN - FAIL -  testFails - Y is not defined
+2017-04-04 22:40:28 [wakanda.taruggiz.backend] WARN - FAIL -  testPasses - Y is not defined
+2017-04-04 22:40:49 [wakanda.taruggiz.backend] WARN - FAIL -  testFails - Y is not defined
+2017-04-04 22:40:49 [wakanda.taruggiz.backend] WARN - FAIL -  testPasses - Y is not defined
+2017-04-04 22:43:37 [wakanda.taruggiz.backend] WARN - FAIL -  testFails - Y is not defined
+2017-04-04 22:43:37 [wakanda.taruggiz.backend] WARN - FAIL -  testPasses - Y is not defined
+2017-04-04 23:01:58 [wakanda.taruggiz.ServerAdmin] INFO -  created 
+2017-04-04 23:02:08 [wakanda.taruggiz.ServerAdmin] INFO - set the debugger
+2017-04-04 23:02:11 [wakanda.taruggiz.backend.jvsc] ERROR - [4055] Test runner not defined, please call the init() method before running the test., line #285, file:///C:/Program%20Files%20(x86)/Wakanda/Community/Server/Modules/unitTest/index.js., task #4196, task name is HTTP connection handler
+2017-04-04 23:02:11 [wakanda.taruggiz.backend.JS4D] ERROR - [2] Error evaluating javascript file:///D:/projects/taruggiz/backend/modules/taruCore/testing/test setup.js, task #4196, task name is HTTP connection handler
+2017-04-04 23:02:44 [wakanda.taruggiz.ServerAdmin] INFO -  created 
+2017-04-04 23:02:44 [wakanda.taruggiz.ServerAdmin] INFO - set the debugger
+2017-04-04 23:15:20 [wakanda.taruggiz] INFO - Users and groups directory opened
+2017-04-04 23:15:20 [IndexManager] INFO - Index  on Datum.ID built in 0 ms
+2017-04-04 23:15:20 [IndexManager] INFO - Index  on Datum.owner built in 0 ms
+2017-04-04 23:15:20 [IndexManager] INFO - Index  on GeneralNode.ID built in 0 ms
+2017-04-04 23:15:20 [IndexManager] INFO - Index  on GeneralNode.parent built in 0 ms
+2017-04-04 23:15:20 [IndexManager] INFO - Index  on GeneralNode.subProcess built in 0 ms
+2017-04-04 23:15:20 [IndexManager] INFO - Index  on Log.ID built in 0 ms
+2017-04-04 23:15:20 [IndexManager] INFO - Index  on SubProcess.ID built in 0 ms
+2017-04-04 23:15:20 [wakanda.taruggiz.backend] INFO - Datastore opened
+2017-04-04 23:15:20 [wakanda.taruggiz.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-04-04 23:15:20 [wakanda.taruggiz.backend] INFO - "backend" project opened
+2017-04-04 23:15:20 [wakanda.taruggiz.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-04-04 23:15:20 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-04-04 23:15:20 [wakanda.taruggiz] INFO - "taruggiz" solution opened
+2017-04-04 23:15:20 [wakanda] INFO - Starts "taruggiz" solution
+2017-04-04 23:15:20 [wakanda.taruggiz.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-04-04 23:15:20 [wakanda.taruggiz.ServerAdmin] INFO - HTTP Server started
+2017-04-04 23:15:20 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project started
+2017-04-04 23:15:21 [wakanda.taruggiz.backend] INFO - HTTP Server started
+2017-04-04 23:15:21 [wakanda.taruggiz.backend] INFO - "backend" project started
+2017-04-04 23:15:21 [wakanda.taruggiz.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-04-04 23:15:21 [wakanda.taruggiz.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-04-04 23:15:21 [wakanda.taruggiz.backend] INFO - Executes the bootstrap file(s)
+2017-04-04 23:15:21 [wakanda.taruggiz.backend] INFO - Bootstrap file(s) executed
+2017-04-04 23:15:21 [wakanda.taruggiz] INFO - "taruggiz" solution started
+2017-04-04 23:15:21 [wakanda] INFO - "taruggiz" solution has been successfully opened for running (duration: 1038 ms)
+2017-04-04 23:15:21 [wakanda.supervisor] INFO - solution opened
+2017-04-04 23:38:29 [wakanda.taruggiz] INFO - Users and groups directory opened
+2017-04-04 23:38:29 [IndexManager] INFO - Index  on Datum.ID built in 1 ms
+2017-04-04 23:38:29 [IndexManager] INFO - Index  on Datum.owner built in 0 ms
+2017-04-04 23:38:29 [IndexManager] INFO - Index  on GeneralNode.ID built in 0 ms
+2017-04-04 23:38:29 [IndexManager] INFO - Index  on GeneralNode.parent built in 0 ms
+2017-04-04 23:38:29 [IndexManager] INFO - Index  on GeneralNode.subProcess built in 0 ms
+2017-04-04 23:38:29 [IndexManager] INFO - Index  on Log.ID built in 0 ms
+2017-04-04 23:38:29 [IndexManager] INFO - Index  on SubProcess.ID built in 0 ms
+2017-04-04 23:38:29 [wakanda.taruggiz.backend] INFO - Datastore opened
+2017-04-04 23:38:29 [wakanda.taruggiz.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-04-04 23:38:29 [wakanda.taruggiz.backend] INFO - "backend" project opened
+2017-04-04 23:38:29 [wakanda.taruggiz.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-04-04 23:38:29 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-04-04 23:38:29 [wakanda.taruggiz] INFO - "taruggiz" solution opened
+2017-04-04 23:38:29 [wakanda] INFO - Starts "taruggiz" solution
+2017-04-04 23:38:29 [wakanda.taruggiz.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-04-04 23:38:29 [wakanda.taruggiz.ServerAdmin] INFO - HTTP Server started
+2017-04-04 23:38:29 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project started
+2017-04-04 23:38:29 [wakanda.taruggiz.backend] INFO - HTTP Server started
+2017-04-04 23:38:29 [wakanda.taruggiz.backend] INFO - "backend" project started
+2017-04-04 23:38:29 [wakanda.taruggiz.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-04-04 23:38:30 [wakanda.taruggiz.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-04-04 23:38:30 [wakanda.taruggiz.backend] INFO - Executes the bootstrap file(s)
+2017-04-04 23:38:30 [wakanda.taruggiz.backend] INFO - Bootstrap file(s) executed
+2017-04-04 23:38:30 [wakanda.taruggiz] INFO - "taruggiz" solution started
+2017-04-04 23:38:30 [wakanda] INFO - "taruggiz" solution has been successfully opened for running (duration: 1013 ms)
+2017-04-04 23:38:30 [wakanda.supervisor] INFO - solution opened
+2017-04-04 23:40:56 [wakanda.xbox] ERROR - [600] The system cannot find the file specified.
+, task #2316, task name is VJSWorker Node Worker handler
+2017-04-04 23:40:56 [wakanda.xbox] ERROR - [203] , task #2316, task name is VJSWorker Node Worker handler
+2017-04-04 23:40:56 [wakanda.jvsc] ERROR - [4021] Script "D:/projects/taruggiz/backend/worker.js" not found!, task #2316, task name is VJSWorker Node Worker handler
+2017-04-04 23:43:39 [wakanda.taruggiz] INFO - Users and groups directory opened
+2017-04-04 23:43:39 [IndexManager] INFO - Index  on Datum.ID built in 0 ms
+2017-04-04 23:43:39 [IndexManager] INFO - Index  on Datum.owner built in 0 ms
+2017-04-04 23:43:39 [IndexManager] INFO - Index  on GeneralNode.ID built in 0 ms
+2017-04-04 23:43:39 [IndexManager] INFO - Index  on GeneralNode.parent built in 0 ms
+2017-04-04 23:43:39 [IndexManager] INFO - Index  on GeneralNode.subProcess built in 0 ms
+2017-04-04 23:43:39 [IndexManager] INFO - Index  on Log.ID built in 0 ms
+2017-04-04 23:43:39 [IndexManager] INFO - Index  on SubProcess.ID built in 0 ms
+2017-04-04 23:43:39 [wakanda.taruggiz.backend] INFO - Datastore opened
+2017-04-04 23:43:39 [wakanda.taruggiz.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-04-04 23:43:39 [wakanda.taruggiz.backend] INFO - "backend" project opened
+2017-04-04 23:43:39 [wakanda.taruggiz.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-04-04 23:43:39 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-04-04 23:43:39 [wakanda.taruggiz] INFO - "taruggiz" solution opened
+2017-04-04 23:43:39 [wakanda] INFO - Starts "taruggiz" solution
+2017-04-04 23:43:40 [wakanda.taruggiz.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-04-04 23:43:40 [wakanda.taruggiz.ServerAdmin] INFO - HTTP Server started
+2017-04-04 23:43:40 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project started
+2017-04-04 23:43:40 [wakanda.taruggiz.backend] INFO - HTTP Server started
+2017-04-04 23:43:40 [wakanda.taruggiz.backend] INFO - "backend" project started
+2017-04-04 23:43:40 [wakanda.taruggiz.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-04-04 23:43:40 [wakanda.taruggiz.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-04-04 23:43:40 [wakanda.taruggiz.backend] INFO - Executes the bootstrap file(s)
+2017-04-04 23:43:40 [wakanda.taruggiz.backend] INFO - Bootstrap file(s) executed
+2017-04-04 23:43:40 [wakanda.taruggiz] INFO - "taruggiz" solution started
+2017-04-04 23:43:40 [wakanda] INFO - "taruggiz" solution has been successfully opened for running (duration: 1024 ms)
+2017-04-04 23:43:40 [wakanda.supervisor] INFO - solution opened
+2017-04-04 23:43:59 [wakanda.jvsc] ERROR - [4055] random_name is not defined, line #26, file:///D:/projects/taruggiz/backend/mochaTest.js., task #4764, task name is VJSWorker Node Worker handler
+2017-04-04 23:45:33 [wakanda.jvsc] ERROR - [4055] Cannot set property 'files' of undefined, line #79, D:\projects\taruggiz\backend\node_modules\mocha\lib\mocha.js., task #2164, task name is VJSWorker Node Worker handler
+2017-04-10 21:19:31 [wakanda.taruggiz] INFO - Users and groups directory opened
+2017-04-10 21:19:31 [IndexManager] INFO - Index  on Datum.ID built in 0 ms
+2017-04-10 21:19:31 [IndexManager] INFO - Index  on Datum.owner built in 0 ms
+2017-04-10 21:19:31 [IndexManager] INFO - Index  on GeneralNode.ID built in 0 ms
+2017-04-10 21:19:31 [IndexManager] INFO - Index  on GeneralNode.parent built in 0 ms
+2017-04-10 21:19:31 [IndexManager] INFO - Index  on GeneralNode.subProcess built in 0 ms
+2017-04-10 21:19:31 [IndexManager] INFO - Index  on Log.ID built in 0 ms
+2017-04-10 21:19:31 [IndexManager] INFO - Index  on SubProcess.ID built in 0 ms
+2017-04-10 21:19:31 [wakanda.taruggiz.backend] INFO - Datastore opened
+2017-04-10 21:19:31 [wakanda.taruggiz.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-04-10 21:19:31 [wakanda.taruggiz.backend] INFO - "backend" project opened
+2017-04-10 21:19:31 [wakanda.taruggiz.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-04-10 21:19:31 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-04-10 21:19:31 [wakanda.taruggiz] INFO - "taruggiz" solution opened
+2017-04-10 21:19:31 [wakanda] INFO - Starts "taruggiz" solution
+2017-04-10 21:19:31 [wakanda.taruggiz.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-04-10 21:19:32 [wakanda.taruggiz.ServerAdmin] INFO - HTTP Server started
+2017-04-10 21:19:32 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project started
+2017-04-10 21:19:32 [wakanda.taruggiz.backend] INFO - HTTP Server started
+2017-04-10 21:19:32 [wakanda.taruggiz.backend] INFO - "backend" project started
+2017-04-10 21:19:32 [wakanda.taruggiz.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-04-10 21:19:32 [wakanda.taruggiz.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-04-10 21:19:32 [wakanda.taruggiz.backend] INFO - Executes the bootstrap file(s)
+2017-04-10 21:19:32 [wakanda.taruggiz.backend] INFO - Bootstrap file(s) executed
+2017-04-10 21:19:32 [wakanda.taruggiz] INFO - "taruggiz" solution started
+2017-04-10 21:19:32 [wakanda] INFO - "taruggiz" solution has been successfully opened for running (duration: 1159 ms)
+2017-04-10 21:19:32 [wakanda.supervisor] INFO - solution opened
+2017-04-10 21:35:47 [wakanda.POSX] ERROR - [10053] Unknown error, task #10416, task name is HTTP connection handler
+2017-04-10 21:37:28 [wakanda.taruggiz.ServerAdmin] INFO -  created 
+2017-04-10 21:37:28 [wakanda.taruggiz.ServerAdmin] INFO - set the debugger
+2017-04-10 21:37:32 [wakanda.taruggiz.ServerAdmin] INFO -  created 
+2017-04-10 21:37:32 [wakanda.taruggiz.ServerAdmin] INFO - set the debugger
+2017-04-10 21:38:11 [wakanda.jvsc] ERROR - [4055] Cannot set property 'files' of undefined, line #79, D:\projects\taruggiz\backend\node_modules\mocha\lib\mocha.js., task #1576, task name is VJSWorker Node Worker handler
+2017-04-10 22:22:28 [wakanda.POSX] ERROR - [10054] Unknown error, task #10180, task name is ServerNet select I/O handler
+2017-04-10 22:22:28 [wakanda.srvr] ERROR - [51] Socket connection broken, task #10180, task name is ServerNet select I/O handler
+2017-04-12 16:52:20 [wakanda.taruggiz] INFO - Users and groups directory opened
+2017-04-12 16:52:20 [IndexManager] INFO - Index  on Datum.ID built in 0 ms
+2017-04-12 16:52:20 [IndexManager] INFO - Index  on Datum.owner built in 0 ms
+2017-04-12 16:52:20 [IndexManager] INFO - Index  on GeneralNode.ID built in 0 ms
+2017-04-12 16:52:20 [IndexManager] INFO - Index  on GeneralNode.parent built in 0 ms
+2017-04-12 16:52:20 [IndexManager] INFO - Index  on GeneralNode.subProcess built in 0 ms
+2017-04-12 16:52:20 [IndexManager] INFO - Index  on Log.ID built in 0 ms
+2017-04-12 16:52:20 [IndexManager] INFO - Index  on SubProcess.ID built in 0 ms
+2017-04-12 16:52:20 [wakanda.taruggiz.backend] INFO - Datastore opened
+2017-04-12 16:52:20 [wakanda.taruggiz.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-04-12 16:52:20 [wakanda.taruggiz.backend] INFO - "backend" project opened
+2017-04-12 16:52:20 [wakanda.taruggiz.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-04-12 16:52:20 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-04-12 16:52:20 [wakanda.taruggiz] INFO - "taruggiz" solution opened
+2017-04-12 16:52:20 [wakanda] INFO - Starts "taruggiz" solution
+2017-04-12 16:52:21 [wakanda.taruggiz.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-04-12 16:52:21 [wakanda.taruggiz.ServerAdmin] INFO - HTTP Server started
+2017-04-12 16:52:21 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project started
+2017-04-12 16:52:21 [wakanda.taruggiz.backend] INFO - HTTP Server started
+2017-04-12 16:52:21 [wakanda.taruggiz.backend] INFO - "backend" project started
+2017-04-12 16:52:21 [wakanda.taruggiz.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-04-12 16:52:21 [wakanda.taruggiz.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-04-12 16:52:21 [wakanda.taruggiz.backend] INFO - Executes the bootstrap file(s)
+2017-04-12 16:52:21 [wakanda.taruggiz.backend] INFO - Bootstrap file(s) executed
+2017-04-12 16:52:21 [wakanda.taruggiz] INFO - "taruggiz" solution started
+2017-04-12 16:52:21 [wakanda] INFO - "taruggiz" solution has been successfully opened for running (duration: 2655 ms)
+2017-04-12 16:52:21 [wakanda.supervisor] INFO - solution opened
+2017-04-12 16:52:22 [wakanda.taruggiz.backend.jvsc] ERROR - [4055] Cannot read property 'spec' of null, line #4, file:///D:/projects/taruggiz/backend/modules/taruCore/tests/spec/taruCore-test.js., task #9700, task name is HTTP connection handler
+2017-04-12 16:52:22 [wakanda.taruggiz.backend.JS4D] ERROR - [2] Error evaluating javascript file:///D:/projects/taruggiz/backend/modules/taruCore/tests/spec/taruCore-test.js, task #9700, task name is HTTP connection handler
+2017-04-12 16:53:01 [wakanda.taruggiz.backend.jvsc] ERROR - [4055] Identifier 'DICTIONARY' has already been declared, line #1, file:///D:/projects/taruggiz/backend/modules/taruCore/tests/spec/taruCore-test.js., task #9700, task name is HTTP connection handler
+2017-04-12 16:53:01 [wakanda.taruggiz.backend.JS4D] ERROR - [2] Error evaluating javascript file:///D:/projects/taruggiz/backend/modules/taruCore/tests/spec/taruCore-test.js, task #9700, task name is HTTP connection handler
+2017-04-12 16:53:05 [wakanda.taruggiz.backend.jvsc] ERROR - [4055] Identifier 'DICTIONARY' has already been declared, line #1, file:///D:/projects/taruggiz/backend/modules/taruCore/tests/spec/taruCore-test.js., task #9700, task name is HTTP connection handler
+2017-04-12 16:53:05 [wakanda.taruggiz.backend.JS4D] ERROR - [2] Error evaluating javascript file:///D:/projects/taruggiz/backend/modules/taruCore/tests/spec/taruCore-test.js, task #9700, task name is HTTP connection handler
+2017-04-12 16:54:07 [wakanda.taruggiz.backend.jvsc] ERROR - [4055] Identifier 'DICTIONARY' has already been declared, line #1, file:///D:/projects/taruggiz/backend/modules/taruCore/tests/spec/taruCore-test.js., task #9700, task name is HTTP connection handler
+2017-04-12 16:54:07 [wakanda.taruggiz.backend.JS4D] ERROR - [2] Error evaluating javascript file:///D:/projects/taruggiz/backend/modules/taruCore/tests/spec/taruCore-test.js, task #9700, task name is HTTP connection handler
+2017-04-12 16:54:08 [wakanda.taruggiz.backend.jvsc] ERROR - [4055] Identifier 'DICTIONARY' has already been declared, line #1, file:///D:/projects/taruggiz/backend/modules/taruCore/tests/spec/taruCore-test.js., task #9700, task name is HTTP connection handler
+2017-04-12 16:54:08 [wakanda.taruggiz.backend.JS4D] ERROR - [2] Error evaluating javascript file:///D:/projects/taruggiz/backend/modules/taruCore/tests/spec/taruCore-test.js, task #9700, task name is HTTP connection handler
+2017-04-12 16:54:23 [wakanda.taruggiz.ServerAdmin] INFO -  created 
+2017-04-12 16:54:23 [wakanda.taruggiz.ServerAdmin] INFO - set the debugger
+2017-04-12 20:36:59 [wakanda.taruggiz] INFO - Users and groups directory opened
+2017-04-12 20:36:59 [IndexManager] INFO - Index  on Datum.ID built in 0 ms
+2017-04-12 20:36:59 [IndexManager] INFO - Index  on Datum.owner built in 0 ms
+2017-04-12 20:36:59 [IndexManager] INFO - Index  on GeneralNode.ID built in 0 ms
+2017-04-12 20:36:59 [IndexManager] INFO - Index  on GeneralNode.subProcess built in 0 ms
+2017-04-12 20:36:59 [IndexManager] INFO - Index  on GeneralNode.parent built in 0 ms
+2017-04-12 20:36:59 [IndexManager] INFO - Index  on Log.ID built in 0 ms
+2017-04-12 20:36:59 [IndexManager] INFO - Index  on SubProcess.ID built in 0 ms
+2017-04-12 20:36:59 [wakanda.taruggiz.backend] INFO - Datastore opened
+2017-04-12 20:36:59 [wakanda.taruggiz.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-04-12 20:36:59 [wakanda.taruggiz.backend] INFO - "backend" project opened
+2017-04-12 20:36:59 [wakanda.taruggiz.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-04-12 20:36:59 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-04-12 20:36:59 [wakanda.taruggiz] INFO - "taruggiz" solution opened
+2017-04-12 20:36:59 [wakanda] INFO - Starts "taruggiz" solution
+2017-04-12 20:37:00 [wakanda.taruggiz.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-04-12 20:37:00 [wakanda.taruggiz.ServerAdmin] INFO - HTTP Server started
+2017-04-12 20:37:00 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project started
+2017-04-12 20:37:00 [wakanda.taruggiz.backend] INFO - HTTP Server started
+2017-04-12 20:37:00 [wakanda.taruggiz.backend] INFO - "backend" project started
+2017-04-12 20:37:00 [wakanda.taruggiz.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-04-12 20:37:00 [wakanda.taruggiz.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-04-12 20:37:00 [wakanda.taruggiz.backend] INFO - Executes the bootstrap file(s)
+2017-04-12 20:37:00 [wakanda.taruggiz.backend] INFO - Bootstrap file(s) executed
+2017-04-12 20:37:00 [wakanda.taruggiz] INFO - "taruggiz" solution started
+2017-04-12 20:37:00 [wakanda] INFO - "taruggiz" solution has been successfully opened for running (duration: 2456 ms)
+2017-04-12 20:37:00 [wakanda.supervisor] INFO - solution opened
+2017-04-12 21:31:48 [wakanda.taruggiz] INFO - Users and groups directory opened
+2017-04-12 21:31:48 [IndexManager] INFO - Index  on Datum.ID built in 0 ms
+2017-04-12 21:31:48 [IndexManager] INFO - Index  on Datum.owner built in 0 ms
+2017-04-12 21:31:48 [IndexManager] INFO - Index  on GeneralNode.ID built in 0 ms
+2017-04-12 21:31:48 [IndexManager] INFO - Index  on GeneralNode.subProcess built in 0 ms
+2017-04-12 21:31:48 [IndexManager] INFO - Index  on GeneralNode.parent built in 0 ms
+2017-04-12 21:31:48 [IndexManager] INFO - Index  on Log.ID built in 0 ms
+2017-04-12 21:31:48 [IndexManager] INFO - Index  on SubProcess.ID built in 0 ms
+2017-04-12 21:31:48 [wakanda.taruggiz.backend] INFO - Datastore opened
+2017-04-12 21:31:48 [wakanda.taruggiz.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-04-12 21:31:48 [wakanda.taruggiz.backend] INFO - "backend" project opened
+2017-04-12 21:31:48 [wakanda.taruggiz.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-04-12 21:31:48 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-04-12 21:31:48 [wakanda.taruggiz] INFO - "taruggiz" solution opened
+2017-04-12 21:31:48 [wakanda] INFO - Starts "taruggiz" solution
+2017-04-12 21:31:48 [wakanda.taruggiz.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-04-12 21:31:48 [wakanda.taruggiz.ServerAdmin] INFO - HTTP Server started
+2017-04-12 21:31:48 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project started
+2017-04-12 21:31:49 [wakanda.taruggiz.backend] INFO - HTTP Server started
+2017-04-12 21:31:49 [wakanda.taruggiz.backend] INFO - "backend" project started
+2017-04-12 21:31:49 [wakanda.taruggiz.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-04-12 21:31:49 [wakanda.taruggiz.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-04-12 21:31:49 [wakanda.taruggiz.backend] INFO - Executes the bootstrap file(s)
+2017-04-12 21:31:49 [wakanda.taruggiz.backend] INFO - Bootstrap file(s) executed
+2017-04-12 21:31:49 [wakanda.taruggiz] INFO - "taruggiz" solution started
+2017-04-12 21:31:49 [wakanda] INFO - "taruggiz" solution has been successfully opened for running (duration: 2575 ms)
+2017-04-12 21:31:49 [wakanda.supervisor] INFO - solution opened
+2017-04-12 21:53:23 [wakanda.taruggiz] INFO - Users and groups directory opened
+2017-04-12 21:53:23 [IndexManager] INFO - Index  on Datum.ID built in 0 ms
+2017-04-12 21:53:23 [IndexManager] INFO - Index  on Datum.owner built in 0 ms
+2017-04-12 21:53:23 [IndexManager] INFO - Index  on GeneralNode.ID built in 0 ms
+2017-04-12 21:53:23 [IndexManager] INFO - Index  on GeneralNode.subProcess built in 0 ms
+2017-04-12 21:53:23 [IndexManager] INFO - Index  on GeneralNode.parent built in 0 ms
+2017-04-12 21:53:23 [IndexManager] INFO - Index  on Log.ID built in 0 ms
+2017-04-12 21:53:23 [IndexManager] INFO - Index  on SubProcess.ID built in 0 ms
+2017-04-12 21:53:23 [wakanda.taruggiz.backend] INFO - Datastore opened
+2017-04-12 21:53:23 [wakanda.taruggiz.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-04-12 21:53:23 [wakanda.taruggiz.backend] INFO - "backend" project opened
+2017-04-12 21:53:23 [wakanda.taruggiz.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-04-12 21:53:23 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-04-12 21:53:23 [wakanda.taruggiz] INFO - "taruggiz" solution opened
+2017-04-12 21:53:23 [wakanda] INFO - Starts "taruggiz" solution
+2017-04-12 21:53:24 [wakanda.taruggiz.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-04-12 21:53:24 [wakanda.taruggiz.ServerAdmin] INFO - HTTP Server started
+2017-04-12 21:53:24 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project started
+2017-04-12 21:53:24 [wakanda.taruggiz.backend] INFO - taruService file got message [object Object] is starting
+2017-04-12 21:53:24 [wakanda.taruggiz.backend] INFO - taruService file D:/projects/taruggiz/backend/Modules/taruService/taruService.js is starting
+2017-04-12 21:53:24 [wakanda.taruggiz.backend] INFO - taruService file got message [object Object] is starting
+2017-04-12 21:53:24 [wakanda.taruggiz.backend] INFO - HTTP Server started
+2017-04-12 21:53:24 [wakanda.taruggiz.backend] INFO - "backend" project started
+2017-04-12 21:53:24 [wakanda.taruggiz.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-04-12 21:53:24 [wakanda.taruggiz.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-04-12 21:53:24 [wakanda.taruggiz.backend] INFO - Executes the bootstrap file(s)
+2017-04-12 21:53:24 [wakanda.taruggiz.backend] INFO - Bootstrap file(s) executed
+2017-04-12 21:53:24 [wakanda.taruggiz] INFO - "taruggiz" solution started
+2017-04-12 21:53:24 [wakanda] INFO - "taruggiz" solution has been successfully opened for running (duration: 2627 ms)
+2017-04-12 21:53:24 [wakanda.supervisor] INFO - solution opened
+2017-04-12 21:54:24 [wakanda.taruggiz] INFO - Users and groups directory opened
+2017-04-12 21:54:25 [IndexManager] INFO - Index  on Datum.ID built in 0 ms
+2017-04-12 21:54:25 [IndexManager] INFO - Index  on Datum.owner built in 0 ms
+2017-04-12 21:54:25 [IndexManager] INFO - Index  on GeneralNode.ID built in 0 ms
+2017-04-12 21:54:25 [IndexManager] INFO - Index  on GeneralNode.subProcess built in 0 ms
+2017-04-12 21:54:25 [IndexManager] INFO - Index  on GeneralNode.parent built in 0 ms
+2017-04-12 21:54:25 [IndexManager] INFO - Index  on Log.ID built in 0 ms
+2017-04-12 21:54:25 [IndexManager] INFO - Index  on SubProcess.ID built in 0 ms
+2017-04-12 21:54:25 [wakanda.taruggiz.backend] INFO - Datastore opened
+2017-04-12 21:54:25 [wakanda.taruggiz.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-04-12 21:54:25 [wakanda.taruggiz.backend] INFO - "backend" project opened
+2017-04-12 21:54:25 [wakanda.taruggiz.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-04-12 21:54:25 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-04-12 21:54:25 [wakanda.taruggiz] INFO - "taruggiz" solution opened
+2017-04-12 21:54:25 [wakanda] INFO - Starts "taruggiz" solution
+2017-04-12 21:54:25 [wakanda.taruggiz.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-04-12 21:54:25 [wakanda.taruggiz.ServerAdmin] INFO - HTTP Server started
+2017-04-12 21:54:25 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project started
+2017-04-12 21:54:25 [wakanda.taruggiz.backend] INFO - taruService file got message {"name":"applicationWillStart"} is starting
+2017-04-12 21:54:25 [wakanda.taruggiz.backend] INFO - taruService file D:/projects/taruggiz/backend/Modules/taruService/taruService.js is starting
+2017-04-12 21:54:25 [wakanda.taruggiz.backend] INFO - taruService file got message {"name":"httpServerDidStart"} is starting
+2017-04-12 21:54:25 [wakanda.taruggiz.backend] INFO - HTTP Server started
+2017-04-12 21:54:25 [wakanda.taruggiz.backend] INFO - "backend" project started
+2017-04-12 21:54:25 [wakanda.taruggiz.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-04-12 21:54:25 [wakanda.taruggiz.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-04-12 21:54:25 [wakanda.taruggiz.backend] INFO - Executes the bootstrap file(s)
+2017-04-12 21:54:25 [wakanda.taruggiz.backend] INFO - Bootstrap file(s) executed
+2017-04-12 21:54:25 [wakanda.taruggiz] INFO - "taruggiz" solution started
+2017-04-12 21:54:25 [wakanda] INFO - "taruggiz" solution has been successfully opened for running (duration: 2461 ms)
+2017-04-12 21:54:25 [wakanda.supervisor] INFO - solution opened
+2017-04-12 21:56:13 [wakanda.taruggiz] INFO - Users and groups directory opened
+2017-04-12 21:56:13 [IndexManager] INFO - Index  on Datum.ID built in 0 ms
+2017-04-12 21:56:13 [IndexManager] INFO - Index  on Datum.owner built in 0 ms
+2017-04-12 21:56:13 [IndexManager] INFO - Index  on GeneralNode.ID built in 0 ms
+2017-04-12 21:56:13 [IndexManager] INFO - Index  on GeneralNode.subProcess built in 0 ms
+2017-04-12 21:56:13 [IndexManager] INFO - Index  on GeneralNode.parent built in 0 ms
+2017-04-12 21:56:13 [IndexManager] INFO - Index  on Log.ID built in 0 ms
+2017-04-12 21:56:13 [IndexManager] INFO - Index  on SubProcess.ID built in 0 ms
+2017-04-12 21:56:13 [wakanda.taruggiz.backend] INFO - Datastore opened
+2017-04-12 21:56:13 [wakanda.taruggiz.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-04-12 21:56:13 [wakanda.taruggiz.backend] INFO - "backend" project opened
+2017-04-12 21:56:13 [wakanda.taruggiz.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-04-12 21:56:13 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-04-12 21:56:13 [wakanda.taruggiz] INFO - "taruggiz" solution opened
+2017-04-12 21:56:13 [wakanda] INFO - Starts "taruggiz" solution
+2017-04-12 21:56:13 [wakanda.taruggiz.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-04-12 21:56:13 [wakanda.taruggiz.ServerAdmin] INFO - HTTP Server started
+2017-04-12 21:56:13 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project started
+2017-04-12 21:56:14 [wakanda.taruggiz.backend] INFO - taruService file got message {"name":"applicationWillStart"} is starting
+2017-04-12 21:56:14 [wakanda.taruggiz.backend] INFO - taruService file D:/projects/taruggiz/backend/Modules/taruService/taruService.js is starting
+2017-04-12 21:56:14 [wakanda.taruggiz.backend] INFO - taruService file got message {"name":"httpServerDidStart"} is starting
+2017-04-12 21:56:14 [wakanda.taruggiz.backend] INFO - HTTP Server started
+2017-04-12 21:56:14 [wakanda.taruggiz.backend] INFO - "backend" project started
+2017-04-12 21:56:14 [wakanda.taruggiz.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-04-12 21:56:14 [wakanda.taruggiz.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-04-12 21:56:14 [wakanda.taruggiz.backend] INFO - Executes the bootstrap file(s)
+2017-04-12 21:56:14 [wakanda.taruggiz.backend] INFO - Bootstrap file(s) executed
+2017-04-12 21:56:14 [wakanda.taruggiz] INFO - "taruggiz" solution started
+2017-04-12 21:56:14 [wakanda] INFO - "taruggiz" solution has been successfully opened for running (duration: 2344 ms)
+2017-04-12 21:56:14 [wakanda.supervisor] INFO - solution opened
+2017-04-12 21:57:06 [wakanda.taruggiz.ServerAdmin] INFO -  created 
+2017-04-12 21:57:06 [wakanda.taruggiz.ServerAdmin] INFO - set the debugger
+2017-04-12 21:57:11 [wakanda.taruggiz.ServerAdmin] INFO -  created 
+2017-04-12 21:57:11 [wakanda.taruggiz.ServerAdmin] INFO - set the debugger
+2017-04-12 21:57:46 [wakanda.taruggiz] INFO - Users and groups directory opened
+2017-04-12 21:57:46 [IndexManager] INFO - Index  on Datum.ID built in 0 ms
+2017-04-12 21:57:46 [IndexManager] INFO - Index  on Datum.owner built in 0 ms
+2017-04-12 21:57:46 [IndexManager] INFO - Index  on GeneralNode.ID built in 0 ms
+2017-04-12 21:57:46 [IndexManager] INFO - Index  on GeneralNode.subProcess built in 0 ms
+2017-04-12 21:57:46 [IndexManager] INFO - Index  on GeneralNode.parent built in 0 ms
+2017-04-12 21:57:46 [IndexManager] INFO - Index  on Log.ID built in 0 ms
+2017-04-12 21:57:46 [IndexManager] INFO - Index  on SubProcess.ID built in 0 ms
+2017-04-12 21:57:46 [wakanda.taruggiz.backend] INFO - Datastore opened
+2017-04-12 21:57:46 [wakanda.taruggiz.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-04-12 21:57:46 [wakanda.taruggiz.backend] INFO - "backend" project opened
+2017-04-12 21:57:46 [wakanda.taruggiz.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-04-12 21:57:46 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-04-12 21:57:46 [wakanda.taruggiz] INFO - "taruggiz" solution opened
+2017-04-12 21:57:46 [wakanda] INFO - Starts "taruggiz" solution
+2017-04-12 21:57:47 [wakanda.taruggiz.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-04-12 21:57:47 [wakanda.taruggiz.ServerAdmin] INFO - HTTP Server started
+2017-04-12 21:57:47 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project started
+2017-04-12 21:57:47 [wakanda.taruggiz.backend] INFO - taruService file got message {"name":"applicationWillStart"} is starting
+2017-04-12 21:57:47 [wakanda.taruggiz.backend] INFO - taruService file D:/projects/taruggiz/backend/Modules/taruService/taruService.js got application start signal
+2017-04-12 21:57:47 [wakanda.taruggiz.backend] INFO - taruService file got message {"name":"httpServerDidStart"} is starting
+2017-04-12 21:57:47 [wakanda.taruggiz.backend] INFO - HTTP Server started
+2017-04-12 21:57:47 [wakanda.taruggiz.backend] INFO - "backend" project started
+2017-04-12 21:57:47 [wakanda.taruggiz.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-04-12 21:57:47 [wakanda.taruggiz.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-04-12 21:57:47 [wakanda.taruggiz.backend] INFO - Executes the bootstrap file(s)
+2017-04-12 21:57:47 [wakanda.taruggiz.backend] INFO - Bootstrap file(s) executed
+2017-04-12 21:57:47 [wakanda.taruggiz] INFO - "taruggiz" solution started
+2017-04-12 21:57:47 [wakanda] INFO - "taruggiz" solution has been successfully opened for running (duration: 2336 ms)
+2017-04-12 21:57:47 [wakanda.supervisor] INFO - solution opened
+2017-04-12 22:20:03 [wakanda.taruggiz] INFO - Users and groups directory opened
+2017-04-12 22:20:03 [IndexManager] INFO - Index  on Datum.ID built in 0 ms
+2017-04-12 22:20:03 [IndexManager] INFO - Index  on Datum.owner built in 0 ms
+2017-04-12 22:20:03 [IndexManager] INFO - Index  on GeneralNode.ID built in 0 ms
+2017-04-12 22:20:03 [IndexManager] INFO - Index  on GeneralNode.subProcess built in 0 ms
+2017-04-12 22:20:03 [IndexManager] INFO - Index  on GeneralNode.parent built in 0 ms
+2017-04-12 22:20:03 [IndexManager] INFO - Index  on Log.ID built in 0 ms
+2017-04-12 22:20:03 [IndexManager] INFO - Index  on SubProcess.ID built in 0 ms
+2017-04-12 22:20:03 [wakanda.taruggiz.backend] INFO - Datastore opened
+2017-04-12 22:20:03 [wakanda.taruggiz.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-04-12 22:20:03 [wakanda.taruggiz.backend] INFO - "backend" project opened
+2017-04-12 22:20:03 [wakanda.taruggiz.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-04-12 22:20:03 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-04-12 22:20:03 [wakanda.taruggiz] INFO - "taruggiz" solution opened
+2017-04-12 22:20:03 [wakanda] INFO - Starts "taruggiz" solution
+2017-04-12 22:20:03 [wakanda.taruggiz.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-04-12 22:20:03 [wakanda.taruggiz.ServerAdmin] INFO - HTTP Server started
+2017-04-12 22:20:03 [wakanda.taruggiz.ServerAdmin] INFO - "ServerAdmin" project started
+2017-04-12 22:20:04 [wakanda.taruggiz.backend] INFO - taruService file got message {"name":"applicationWillStart"} is starting
+2017-04-12 22:20:04 [wakanda.taruggiz.backend] INFO - taruService file D:/projects/taruggiz/backend/Modules/taruService/taruService.js got the application start signal
+2017-04-12 22:20:04 [wakanda.taruggiz.backend] INFO - taruService file got message {"name":"httpServerDidStart"} is starting
+2017-04-12 22:20:04 [wakanda.taruggiz.backend] INFO - HTTP Server started
+2017-04-12 22:20:04 [wakanda.taruggiz.backend] INFO - "backend" project started
+2017-04-12 22:20:04 [wakanda.taruggiz.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-04-12 22:20:04 [wakanda.taruggiz.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-04-12 22:20:04 [wakanda.taruggiz.backend] INFO - Executes the bootstrap file(s)
+2017-04-12 22:20:04 [wakanda.taruggiz.backend] INFO - Bootstrap file(s) executed
+2017-04-12 22:20:04 [wakanda.taruggiz] INFO - "taruggiz" solution started
+2017-04-12 22:20:04 [wakanda] INFO - "taruggiz" solution has been successfully opened for running (duration: 2451 ms)
+2017-04-12 22:20:04 [wakanda.supervisor] INFO - solution opened
